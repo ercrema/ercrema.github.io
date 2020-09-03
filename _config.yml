@@ -10,7 +10,7 @@ locale                   : "en-UK"
 title                    : "Enrico R. Crema"
 title_separator          : "-"
 name                     : &name "Enrico R. Crema"
-description              : &description "Senior Lecturer in Computational Analysis of Long-Term Human Cultural and Biological Dynamics"
+description              : &description "Quantitative and Computational Archaeologist"
 url                      : https://ercrema.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ercrema.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Enrico R. Crema"
   avatar           : "profile.png"
-  bio              : "Senior Lecturer"
+  bio              : "Quantitative and Computational Archaeologist"
   location         : "Cambridge, UK"
   employer         : "University of Cambridge"
   pubmed           : 
