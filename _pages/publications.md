@@ -59,15 +59,15 @@ Manning, K., College S., **Crema, E.R.**, Shennan, S., Timpson, A. (2016). The C
 ### 2015 ###
 ---
 
-Fort, J., Crema, E.R.  Madella, M. (2015) Modeling Demic and Cultural Diffusion: An Introduction, Human Biology, 87 (3), 141-149.
+Crema, E.R., Lake, M. (2015) Cultural Incubators and Spread of Innovation (2015), Human Biology, 87 (3), 151-168. [[url](https://dx.doi.org/10.13110/humanbiology.87.3.0151)][[code](http://dx.doi.org/10.5281/zenodo.17243)]
 
-Crema, E.R., Lake, M. (2015) Cultural Incubators and Spread of Innovation (2015), Human Biology, 87 (3), 151-168.
+Fort, J., Crema, E.R.  Madella, M. (2015) Modeling Demic and Cultural Diffusion: An Introduction, Human Biology, 87 (3), 141-149.[[url](https://dx.doi.org/10.13110/humanbiology.87.3.0141)]
 
-Manning, K, Timpson, A., Shennan, S., Crema, E.R. (2015) Size Reduction in Early European Domestic Cattle Relates to Intensification of Neolithic Herding Strategies. PLOS ONE 10(12): e0141873.
+Manning, K, Timpson, A., Shennan, S., Crema, E.R. (2015) Size Reduction in Early European Domestic Cattle Relates to Intensification of Neolithic Herding Strategies. PLOS ONE 10(12): e0141873.[[url/pdf](http://dx.doi.org/10.1371/journal.pone.0141873)]
 
-Shennan, S., Crema, E.R., Kerig, T. (2015). Isolation-by-distance, homophily, and "core" vs. "package" cultural evolution models in Neolithic Europe. Evolution and Human Behaviour. 36 (2), 103-109.
+Shennan, S., Crema, E.R., Kerig, T. (2015). Isolation-by-distance, homophily, and "core" vs. "package" cultural evolution models in Neolithic Europe. Evolution and Human Behaviour. 36 (2), 103-109.[[url/code](https://doi.org/10.1016/j.evolhumbehav.2014.09.006)][[pdf](http://ercrema.github.io/files/Shennan,Crema%20and %20Kerig%202015)]
 
-Edinborough, K., Crema, E.R., Kerig, T., Shennan, S. (2015) An ABC of lithic arrowheads: A case study from southeastern France. In Brink, K., Hydén, S., Jennbert, K., Larsson,L., Olausson, D. (Eds.) Neolithic Diversities. Perspectives from a conference in Lund, Sweden, Acta Archaeologica Lundensia, Series in 8o, No. 65. Lund, pp. 213-223
+Edinborough, K., Crema, E.R., Kerig, T., Shennan, S. (2015) An ABC of lithic arrowheads: A case study from southeastern France. In Brink, K., Hydén, S., Jennbert, K., Larsson,L., Olausson, D. (Eds.) Neolithic Diversities. Perspectives from a conference in Lund, Sweden, Acta Archaeologica Lundensia, Series in 8o, No. 65. Lund, pp. 213-223 [[url](http://lup.lub.lu.se/record/7765983)][[pdf](Edinborough%20et%20al%202015.pdf)]
 
 Crema, E.R. (2015). Time and probabilistic reasoning in Settlement Analysis. In Barceló, J.A., Bogdanovic, I. (Eds.) Mathematics in Archaeology, CRC Press, pp. 314-334.
 
