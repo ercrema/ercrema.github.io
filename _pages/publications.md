@@ -84,13 +84,13 @@ Bevan, A., **Crema, E.R.** (2014) Une modélisation géographiquement explicite 
 
 **Crema, E.R.**, (2012) Modelling temporal uncertainty in archaeological analysis. _Journal of Archaeological Method and Theory_,19, 440-461.[[url](https://doi.org/10.1007/s10816-011-9122-3)][[request copy](mailto:erc62@cam.ac.uk?subject=Request%20a%20Copy%20of%20%22Modelling%20temporal%20uncertainty%20in%20archaeological%20analysis%22)]
 
-**Crema E.R.** (2013). Cycles of change in Jomon settlement: a case study from Eastern Tokyo Bay. _Antiquity_, 87, 1169-1181 [[url(https://doi.org/10.1017/S0003598X00049930)][[request copy](mailto:erc62@cam.ac.uk?subject=Request%20a%20Copy%20of%20%22Cycles%20of%20change%20in%20Jomon%20settlement%3A%20a%20case%20study%20from%20Eastern%20Tokyo%20Bay%22)]
+**Crema E.R.** (2013). Cycles of change in Jomon settlement: a case study from Eastern Tokyo Bay. _Antiquity_, 87, 1169-1181 [[url](https://doi.org/10.1017/S0003598X00049930)][[request copy](mailto:erc62@cam.ac.uk?subject=Request%20a%20Copy%20of%20%22Cycles%20of%20change%20in%20Jomon%20settlement%3A%20a%20case%20study%20from%20Eastern%20Tokyo%20Bay%22)]
 
 **Crema, E.R.**, Bevan, A. and Lake, M. (2010). A probabilistic framework for assessing spatiotemporal point patterns in the archaeological record. _Journal of Archaeological Science_, 37, 1118-1130.[[url](https://doi.org/10.1016/j.jas.2009.12.012)][[request copy](mailto:erc62@cam.ac.uk?subject=Request%20a%20Copy%20of%20%22%20A%20probabilistic%20framework%20for%20assessing%20spatiotemporal%20point%20patterns%20in%20the%20archaeological%20record%22)]
 
 **Crema E.R.** (2014). A simulation model of fission-fusion dynamics and long-term settlement change. _Journal of Archaeological Method and Theory_ , 21, 385-404.[[url](https://doi.org/10.1007/s10816-013-9185-4)][[code](https://github.com/ercrema/fissionfusion2014)][[request copy](mailto:erc62@cam.ac.uk?subject=Request%20a%20Copy%20of%20%22A%20simulation%20model%20of%20fission-fusion%20dynamics%20and%20long-term%20settlement%20change.%22)]
 
-**Crema, E.R.** and Nishino M. (2012). Spatio-temporal distributions of Middle to Late Jomon pithouses in Oyumino, Chiba (Japan). _Journal of Open Archaeology Data_, 1 (2) [[url](http://dx.doi.org/10.5334/4f8eb4078284b)][[data](https://discovery.ucl.ac.uk/id/eprint/1344158/)][[pdf](http://ercrema.github.io/files/Crema and%20Nishino%202012.pdf)]
+**Crema, E.R.** and Nishino M. (2012). Spatio-temporal distributions of Middle to Late Jomon pithouses in Oyumino, Chiba (Japan). _Journal of Open Archaeology Data_, 1 (2) [[url](http://dx.doi.org/10.5334/4f8eb4078284b)][[data](https://discovery.ucl.ac.uk/id/eprint/1344158/)][[pdf](http://ercrema.github.io/files/Crema%20and%20Nishino%202012.pdf)]
 
 **Crema, E.R.** and Bianchi, E. (2013). Looking for patterns in the noise: non-site spatial analysis at Sebkha Kalbia (Tunisia). In Mulazzani, S. (Ed.) Le Capsien de hergla (Tunisie). Culture, environnement et économie. Frankfurt: Africa Magna Verlag, pp. 385-395.[[url](http://www.mae.parisnanterre.fr/le-capsien-de-hergla-tunisie/)][[request copy](mailto:erc62@cam.ac.uk?subject=Request%20a%20Copy%20of%20%22Looking%20for%20patterns%20in%20the%20noise%22)]
 
@@ -110,7 +110,7 @@ Mulazzani, S., Boussoffara, R., Aouadi, N., Azzarà, V., Belhouchet, L., Boujekb
 
 Mulazzani, S., Boussoffara, R., Azzarà, V., Belhouchet, L., Boldrin, M. Boujekben, A., **Crema, E.R.**, Mannino, M.A., Del Grande C., Mazzanti C., Scaruffi, S. (2008). Between the Sahara and the Mediterranean: a study of the Middle Holocene communities of the Sebkhet Halk al Menzel (Tunisia). The first three Campaigns 2002-2004, In Menozzi O., Di Marzio M. L., Fossataro D. (Eds.) SOMA 2005 Proceedings of the IX Symposium on Mediterranean Archaeology, Chieti (Italy), 24- 26 February 2005. BAR International Series, n. 1793, Oxford: Archaeopress, pp 383-390.[[request copy](mailto:erc62@cam.ac.uk?subject=Request%20a%20Copy%20of%20%22etween%20the%20Sahara%20and%20the%20Mediterranean%3A%20a%20study%20of%20the%20Middle%20Holocene%20communities%20of%20the%20Sebkhet%20Halk%20al%20Menzel%20(Tunisia)%22)]
 
-Timpson, A., Colledge, S., **Crema, E.R.**, Edinborough, K., Kerig, T., Manning, K., Thomas, M.G., Shennan, S. (2014). Reconstructing regional demographies of the European Neolithic using ‘dates as data’: a new case-study using an improved method. _Journal of Archaeological Science_, 52, 549–557.[[url(https://doi.org/10.1016/j.jas.2014.08.011)][[pdf](http://ercrema.github.io/files/Timpson%20et%20al%202014.pdf)]
+Timpson, A., Colledge, S., **Crema, E.R.**, Edinborough, K., Kerig, T., Manning, K., Thomas, M.G., Shennan, S. (2014). Reconstructing regional demographies of the European Neolithic using ‘dates as data’: a new case-study using an improved method. _Journal of Archaeological Science_, 52, 549–557.[[url](https://doi.org/10.1016/j.jas.2014.08.011)][[pdf](http://ercrema.github.io/files/Timpson%20et%20al%202014.pdf)]
 
 
 
