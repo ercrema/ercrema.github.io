@@ -74,7 +74,7 @@ Shennan, S., **Crema, E.R.**, Kerig, T. (2015). Isolation-by-distance, homophily
 
 
 
-### 2008 - 2014 ###
+### 2008-2014 ###
 
 Bevan, A, **Crema, E.R.**, Li, Xiuzhen, and Palmisano, A. (2013). Intensities, Interactions and Uncertainties: Some New Approaches to Archaeological Distributions. In Bevan, A. and Lake, M. (eds.) _Computational Approaches to Archaeological Space_. Walnut Creek: Left Coast Press. 27-52.[[url](https://doi.org/10.4324/9781315431932)][[request copy](mailto:erc62@cam.ac.uk?subject=Request%20a%20Copy%20of%20%22Intensities%2C%20Interactions%20and%20Uncertainties%22)]
 
