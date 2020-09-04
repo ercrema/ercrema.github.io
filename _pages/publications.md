@@ -32,16 +32,16 @@ Saag, L., et al. (2019). The Arrival of Siberian Ancestry Connecting the Eastern
 
 Bell, L., **Crema, E.R.** , Bunting, J., Madella, M. (2018). Simulating vegetation in ancient Japan using HuMPol: a pollen-based multi-scenario modeling approach. PAGES Magazine, 26, 22-23.[[url/pdf](http://pastglobalchanges.org/download/docs/magazine/2018-1/PAGESmagazine_2018%281%29_22-23.pdf)]
 
-**Crema, E.R.** (2018). Statistical Inference and Archaeological Simulations, The SAA Archaeological Record,18(2), 20-23.[[url](http://onlinedigeditions.com/article/Statistical+Inference+And+Archaeological+Simulations/3048112/486133/article.html)][[pdf](http://ercrema.github.io/files/Crema\ 2018.pdf)]
+**Crema, E.R.** (2018). Statistical Inference and Archaeological Simulations, The SAA Archaeological Record,18(2), 20-23.[[url](http://onlinedigeditions.com/article/Statistical+Inference+And+Archaeological+Simulations/3048112/486133/article.html)][[pdf](http://ercrema.github.io/files/Crema%202018.pdf)]
 
 ### 2017 ###
 ---
 
 **Crema, E.R.**, Bevan, A., Shennan, S.(2017). Spatio-temporal approaches to archaeological radiocarbon dates. Journal of Archaeological Science 87, 1-9. [[url](https://doi.org/j.jas.2017.09.007)][[request copy](mailto:erc62@cam.ac.uk?subject=Request%20a%20Copy%20of%20%22Spatio-temporal%20approaches%20to%20archaeological%20radiocarbon%20dates%22)][[code](https://github.com/ercrema/JAS2017_spatialSPD)]
 
-Bortolini, E., Pagani, L., **Crema, E.R.**, Sarno, S., Barbieri, C., Boattini, A., Sazzini, M., Silva, S.G. da, Martini, G., Metspalu, M., Pettener, D., Luiselli, D., Tehrani, J.J., (2017). Inferring patterns of folktale diffusion using genomic data. PNAS 201614395. [[url](https://doi.org/10.1073/pnas.1614395114)][[pdf](http://ercrema.github.io/files/Bortolini\ et\ al\ 2017.pdf)] 
+Bortolini, E., Pagani, L., **Crema, E.R.**, Sarno, S., Barbieri, C., Boattini, A., Sazzini, M., Silva, S.G. da, Martini, G., Metspalu, M., Pettener, D., Luiselli, D., Tehrani, J.J., (2017). Inferring patterns of folktale diffusion using genomic data. PNAS 201614395. [[url](https://doi.org/10.1073/pnas.1614395114)][[pdf](http://ercrema.github.io/files/Bortolini%20et%20al%202017.pdf)] 
 
-Biagetti, S., Merlo, S., Adam, E., Lobo, A., Conesa, F.C., Knight, J., Bekrani, H., **Crema, E.R.**, Alcaina-Mateos, J., Madella, M., (2017). High and Medium Resolution Satellite Imagery to Evaluate Late Holocene Human–Environment Interactions in Arid Lands: A Case Study from the Central Sahara. Remote Sensing 9, 351.[[url](https://doi.org/10.3390/rs9040351)][[pdf](http://ercrema.github.io/files/Biagetti\ et\ al\ 2017.pdf)]
+Biagetti, S., Merlo, S., Adam, E., Lobo, A., Conesa, F.C., Knight, J., Bekrani, H., **Crema, E.R.**, Alcaina-Mateos, J., Madella, M., (2017). High and Medium Resolution Satellite Imagery to Evaluate Late Holocene Human–Environment Interactions in Arid Lands: A Case Study from the Central Sahara. Remote Sensing 9, 351.[[url](https://doi.org/10.3390/rs9040351)][[pdf](http://ercrema.github.io/files/Biagetti%20et%20al%202017.pdf)]
 
 Ribéreau-Gayon, A., Rando, C., Schuliar, Y., Chapenoire, S., **Crema, E.R.**, Claes, J., Seret, B., Maleret, V., Morgan, R.M., (2017). Extensive unusual lesions on a large number of immersed human victims found to be from cookiecutter sharks (Isistius spp.): an examination of the Yemenia plane crash. International Journal of Legal Medicine 131, 423-432.[[url](https://doi.org/10.1007/s00414-016-1449-6)][[Request copy](mailto:erc62@cam.ac.uk?subject=Request%20a%20Copy%20of%20%22Extensive%20unusual%20lesions%20on%20a%20large%20number%20of%20immersed%20human%20victims%22)]
 
@@ -50,11 +50,11 @@ Ribéreau-Gayon, A., Rando, C., Schuliar, Y., Chapenoire, S., **Crema, E.R.**, C
 
 **Crema, E.R.**, Kandler, A., Shennan, S., (2016) Revealing patterns of cultural transmission from frequency data: equilibrium and non-equilibrium assumptions. Scientific Reports 6, 39122. [[url](https://doi.org/10.1038/srep39122)][[pdf](http://ercrema.github.io/files/Crema\ et\ al\ 2016b.pdf)][[code](https://github.com/ercrema/culturaltransmissionmodel)]
 
-**Crema, E.R.** ,Habu, J., Kobayashi, K., Madella, M. (2016). Summed Probability Distribution of 14C Dates Suggests Regional Divergences in the Population Dynamics of the Jomon Period in Eastern Japan. PloS ONE 11(4): e0154809[[url](http://dx.doi.org/10.1371/journal.pone.0154809)][[pdf](http://ercrema.github.io/files/Crema\ et\ al\ 2016a.pdf))][[code](https://github.com/ercrema/Jomon_SPD_Comparison)]
+**Crema, E.R.** ,Habu, J., Kobayashi, K., Madella, M. (2016). Summed Probability Distribution of 14C Dates Suggests Regional Divergences in the Population Dynamics of the Jomon Period in Eastern Japan. PloS ONE 11(4): e0154809[[url](http://dx.doi.org/10.1371/journal.pone.0154809)][[pdf](http://ercrema.github.io/files/Crema%20et%20al%202016a.pdf))][[code](https://github.com/ercrema/Jomon_SPD_Comparison)]
 
-Biagetti, S., Alcaina-Mateos, J., **Crema, E.R.** (2016). A matter of ephemerality. The study of Kel Tadrart campsites via quantitative spatial analysis. Ecology and Society 21 (1): 42 [[url](http://dx.doi.org/10.5751/ES-08202-210142)][[pdf](http://ercrema.github.io/files/Biagetti,\ Alcaina\ and\ Crema\ 2016.pdf)] [[code](https://github.com/ercrema/a_matter_of_ephemerality)] 
+Biagetti, S., Alcaina-Mateos, J., **Crema, E.R.** (2016). A matter of ephemerality. The study of Kel Tadrart campsites via quantitative spatial analysis. Ecology and Society 21 (1): 42 [[url](http://dx.doi.org/10.5751/ES-08202-210142)][[pdf](http://ercrema.github.io/files/Biagetti,%20Alcaina%20and%20Crema%202016.pdf)] [[code](https://github.com/ercrema/a_matter_of_ephemerality)] 
 
-Manning, K., College S., **Crema, E.R.**, Shennan, S., Timpson, A. (2016). The Cultural Evolution of Neolithic Europe. EUROEVOL Dataset 1: Sites, Phases and Radiocarbon Data, Journal of Open Archaeology Data, 5: e2. [[url](http://dx.doi.org/10.5334/joad.40)][[pdf](http://ercrema.github.io/files/Manning\ et\ al\ 2016.pdf)][[data](http://discovery.ucl.ac.uk/1469811/)]
+Manning, K., College S., **Crema, E.R.**, Shennan, S., Timpson, A. (2016). The Cultural Evolution of Neolithic Europe. EUROEVOL Dataset 1: Sites, Phases and Radiocarbon Data, Journal of Open Archaeology Data, 5: e2. [[url](http://dx.doi.org/10.5334/joad.40)][[pdf](http://ercrema.github.io/files/Manning%20et%20al%202016.pdf)][[data](http://discovery.ucl.ac.uk/1469811/)]
 
 ### 2015 ###
 ---
