@@ -24,7 +24,7 @@ Find out more about on the [project website](https://www.encounterproject.info/)
 # BuckBee 
 
 
-![BuckBee Project](/images/buckbee_logo_large.jpg)
+![BuckBee Project](/images/buckbee_logo_large.png)
 
 ‘Crops, Pollinators and People’ (nicknamed 'Buckbee') is a multidisciplinary project funded by the Leverhulme Trust, investigating the interrelations between crop plants, insect pollinators, and human management in prehistory. It studies the expansion and evolution of buckwheat across Eurasia in relation to honeybee populations and their management.
 
