@@ -5,14 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-ENCOUNTER Project
-
-
- 
-
-
-
-
 
 
 
