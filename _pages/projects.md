@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-# ENCOUNTER Project
+# ENCOUNTER
 
 ![ENCOUNTER Project](/images/landinpage_department.png)
 
@@ -21,7 +21,7 @@ Find out more about on the [project website](https://www.encounterproject.info/)
 
  
 
-# BuckBee Project
+# BuckBee 
 
 
 ![BuckBee Project](/images/buckbee_logo_large.jpg)
