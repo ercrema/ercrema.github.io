@@ -44,11 +44,13 @@ Teaching
   * Leah Brainerd (main supervisor)
   * Friederike Jürcke (advisor, main supervisor: Dr Cameron Petrie)
   * Marta Krzyzanska (main supervisor)
+  * Joseph Lewis (main supervisor)
   * Sergio Russo (advisor, main supervisor: Dr Augusta MacMahon)
   * Charles Simmons (main supervisor)
   * Mncedisi Siteleki (co-supervisor, main supervisor: Dr Augusta MacMahon)
   * Benjamin J Utting (advisor, main supervisor: Dr Philp Nigst)
   * Jasmine Vieri (advisor, main supervisor: Prof Marcos Martinon-Torres)
+  * Andriana Xenaki (advisor, main supervisor: Dr Yannis Galanakis)
   
 * Past PhD student
   * Helen Alderson (advisor,main supervisor: Dr Elizabeth DeMarrais)
