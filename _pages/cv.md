@@ -88,6 +88,7 @@ Selected Publications
 
 Editorial Work
 ======
+* Associate Editor: Journal of Archaeological Science
 * Editorial Board Member:
   * Japanese Journal of Archaeology
   * Journal of Archaeological Science: Reports
