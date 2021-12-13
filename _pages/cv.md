@@ -17,7 +17,7 @@ Education
 
 Employment
 ======
-* _Current_ - Senior Lecturer in Computational Analysis of Long-Term Human Cultural and Biological Dynamic, Department of Archaeology, Univesity of Cambridge
+* _Current_ - Associate Professor in Computational Analysis of Long-Term Human Cultural and Biological Dynamic, Department of Archaeology, Univesity of Cambridge
 * 2016-2020 Lecturer in Computational Analysis of Long-Term Human Cultural and Biological Dynamic, Department of Archaeology, Univesity of Cambridge
 * 2016 McDonald Anniversary Research Fellow, McDonald Institute for Archaeological Research, Univesity of Cambridge
 * 2014-2016 Research Fellow (Marie Skłodowska-Curie Actions Individual Fellowship, NiCoSS Project), Department of Humanities, Universitat Pompeu Fabra
@@ -45,19 +45,24 @@ Teaching
   * Friederike Jürcke (advisor, main supervisor: Dr Cameron Petrie)
   * Marta Krzyzanska (main supervisor)
   * Joseph Lewis (main supervisor)
-  * Sergio Russo (advisor, main supervisor: Dr Augusta MacMahon)
+  * Sergio Russo (advisor, main supervisor: Prof. Augusta MacMahon)
   * Charles Simmons (main supervisor)
-  * Mncedisi Siteleki (co-supervisor, main supervisor: Dr Augusta MacMahon)
-  * Benjamin J Utting (advisor, main supervisor: Dr Philp Nigst)
+  * Benjamin J Utting (advisor, main supervisor: Dr Alaistair Key)
   * Jasmine Vieri (advisor, main supervisor: Prof Marcos Martinon-Torres)
   * Andriana Xenaki (advisor, main supervisor: Dr Yannis Galanakis)
   
 * Past PhD student
   * Helen Alderson (advisor,main supervisor: Dr Elizabeth DeMarrais)
+  * Mncedisi Siteleki (co-supervisor, main supervisor: Prof Per Ditlef Fredriksen)
+
 
 Selected Publications
 ======
 (see [here](https://ercrema.github.io/publications/) for full list, links, and dowloads)
+
+* Crema, E.R., Bevan, A. (2021). Inference from large sets of radiocarbon dates: software and methods, _Radiocarbon_, 63, 23-39.
+
+* Crema, E.R., Shoda, S., (2021). A Bayesian approach for fitting and comparing demographic growth models of radiocarbon dates: A case study on the Jomon-Yayoi transition in Kyushu (Japan), _Plos One_, 16(5): e0251695.
 
 * Crema, E.R., Kobayashi, K., (2020). A multi-proxy inference of Jōmon population dynamics using bayesian phase models, residential data, and summed probability distribution of 14C dates. _Journal of Archaeological Science_, 117, 105136. 
 
