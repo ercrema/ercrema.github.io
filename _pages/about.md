@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vitae ipsum velit. Proin ut mi id ipsum volutpat congue vel vitae ligula. Aenean id aliquam libero. Vestibulum nec metus id libero rutrum condimentum. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras in orci mauris. Integer quis ligula quis elit fringilla convallis a in elit. Pellentesque ut erat nec turpis lobortis aliquam id dictum dolor. Etiam nunc massa, euismod posuere auctor quis, accumsan in mi. Mauris posuere metus eget mauris imperdiet, vitae tempus ligula faucibus. Phasellus tincidunt nisi nec enim posuere, a suscipit velit lobortis.
+Hi! I am researcher primarily focused on the application and development of quantitative and computational methods in archaeology and anthropology.  I apply these techniques to tackle a variety of [research themes](https://ercrema.github.io/research/), including prehistoric population dynamics, long-term changes in settlement patterns, and patterns and processes of cultural evolution. I use computer simulations to build theorethical models of cultural transmission and develop custom statistical models to handle chronological uncertainty that typically characterise the archaeological record. I am currently working on a [ERC project focused on the study of dispersal of farming in prehistoric Japan](https://ercrema.github.io/projects/). I am strongly committed to open science and an active developer of several [R packages](https://ercrema.github.io/rpackages/). You can find my institutional web page [here](https://www.arch.cam.ac.uk/directory/erc62).
 
-Bio
-======
-Vestibulum interdum posuere enim quis consequat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed id fermentum magna. Maecenas ac nulla at ligula vestibulum varius in in quam. Etiam pellentesque varius lorem non hendrerit. Quisque a augue condimentum, tristique lectus vel, molestie magna. Nunc porttitor nisi in sapien aliquam, non elementum felis accumsan. Vivamus eleifend quam nec fermentum tincidunt. Sed auctor egestas elit eu feugiat. Phasellus pulvinar, velit nec convallis porta, ligula tortor pulvinar magna, sed aliquet enim nisl et lectus. Nullam vel nisi ut mauris bibendum ornare. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec iaculis, mauris in pharetra laoreet, orci dui congue tellus, eu convallis nulla mauris in felis. Curabitur lacinia velit ac nulla malesuada mollis.
+
+
+
+
 
