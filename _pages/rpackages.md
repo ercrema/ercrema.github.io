@@ -5,19 +5,31 @@ permalink: /rpackages/
 author_profile: true
 ---
 
-## rcarbon
+
+## rcarbon <img src="./files/rcarbon.png" align="right" />
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vitae ipsum velit. Proin ut mi id ipsum volutpat congue vel vitae ligula. Aenean id aliquam libero. Vestibulum nec metus id libero rutrum condimentum. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras in orci mauris. Integer quis ligula quis elit fringilla convallis a in elit. Pellentesque ut erat nec turpis lobortis aliquam id dictum dolor. Etiam nunc massa, euismod posuere auctor quis, accumsan in mi. Mauris posuere metus eget mauris imperdiet, vitae tempus ligula faucibus. Phasellus tincidunt nisi nec enim posuere, a suscipit velit lobortis.
+Developed with [Andrew Bevan](https://www.ucl.ac.uk/archaeology/people/andrew-bevan-professor-spatial-and-comparative-archaeology), the _rcarbon_ R package enables the calibration and analysis of radiocarbon dates, often but not exclusively for the purposes of archaeological research. It includes functions not only for basic calibration, uncalibration, and plotting of one or more dates, but also a statistical framework for building demographic and related longitudinal inferences from aggregate radiocarbon date lists, including: Monte-Carlo simulation test [Timpson et al 2014](https://doi.org/10.1016/j.jas.2014.08.011), random mark permutation test ([Crema et al 2016](https://doi.org/10.1371/journal.pone.0154809), [Bevan et al 2017](https://doi.org/10.1073/pnas.1709190114)) point-to-point test ([Edinborough et al 2017](https://doi.org/10.1073/pnas.1713012114)), and spatial permutation test ([Crema, Bevan, and Shennan 2017](https://doi.org/10.1016/j.jas.2017.09.007)). 
 
+* CRAN [link](https://CRAN.R-project.org/package=rcarbon)
+* GitHub [link](https://github.com/ahb108/rcarbon)
+* Associated Paper: [Crema and Bevan 2021](https://doi.org/10.1017/RDC.2020.95))
 
-
-## nimbleCarbon
+## nimbleCarbon <img src="./files/nimblecarbon.png" align="right"/>
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vitae ipsum velit. Proin ut mi id ipsum volutpat congue vel vitae ligula. Aenean id aliquam libero. Vestibulum nec metus id libero rutrum condimentum. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras in orci mauris. Integer quis ligula quis elit fringilla convallis a in elit. Pellentesque ut erat nec turpis lobortis aliquam id dictum dolor. Etiam nunc massa, euismod posuere auctor quis, accumsan in mi. Mauris posuere metus eget mauris imperdiet, vitae tempus ligula faucibus. Phasellus tincidunt nisi nec enim posuere, a suscipit velit lobortis.
+_nimbleCarbon_ is an add-on library for the [nimble](https://CRAN.R-project.org/package=nimble) R package whic provides utility functions and bespoke probability distributions for Bayesian analyses of radiocarbon dates. The package is particularly suited for demographic inferences based on changing frequencies of radiocarbon dates and enables parameter estimations and model comparison. 
 
+
+* CRAN [link](https://CRAN.R-project.org/package=nimbleCarbon)
+* GitHub [link](https://github.com/ercrema/nimbleCarbon)
+* Associated Paper: [Crema and Shoda 2021](https://doi.org/10.1371/journal.pone.0251695)
 
 
 ## cTransmission
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vitae ipsum velit. Proin ut mi id ipsum volutpat congue vel vitae ligula. Aenean id aliquam libero. Vestibulum nec metus id libero rutrum condimentum. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras in orci mauris. Integer quis ligula quis elit fringilla convallis a in elit. Pellentesque ut erat nec turpis lobortis aliquam id dictum dolor. Etiam nunc massa, euismod posuere auctor quis, accumsan in mi. Mauris posuere metus eget mauris imperdiet, vitae tempus ligula faucibus. Phasellus tincidunt nisi nec enim posuere, a suscipit velit lobortis.
+_cTransmission_ is an experimental R package developed with [Anne Kandler](https://www.eva.mpg.de/ecology/staff/anne-kandler/) for cultural evolutionary analyses of frequency data via approximate Bayesian computation.
+
+* Github[link](https://github.com/ercrema/cTransmission)
+
+
+
 
