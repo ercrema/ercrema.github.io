@@ -1,16 +1,16 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
-
   - title: "Research Themes"
     url: /research/    
+      
+  - title: "Projects"
+    url: /projects/    
+    
+  - title: "Publications"
+    url: /publications/
     
   - title: "R Packages"
-    url: /rpackages/    
-
-  - title: "Projects"
-    url: /projects/     
+    url: /rpackages/  
     
   - title: "CV"
     url: /cv/
