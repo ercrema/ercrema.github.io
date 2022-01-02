@@ -99,7 +99,7 @@ Biagetti, S., Alcaina-Mateos, J., **Crema, E.R.** (2016). A matter of ephemerali
 
 Edinborough, K., **Crema, E.R.**, Kerig, T., Shennan, S. (2015) An ABC of lithic arrowheads: A case study from southeastern France. In Brink, K., Hydén, S., Jennbert, K., Larsson,L., Olausson, D. (Eds.) _Neolithic Diversities. Perspectives from a conference in Lund, Sweden_, Acta Archaeologica Lundensia, Series in 8o, No. 65. Lund, pp. 213-223 [[url](http://lup.lub.lu.se/record/7765983)][[pdf](http://ercrema.github.io/files/Edinborough%20et%20al%202015.pdf)]
 
-Eve, S., **Crema, E.R.** (2014). A House with a View?  Multi-model inference, visibility fields, and point process analysis of a Bronze Age settlement on Leskernick Hill (Cornwall, UK). _Journal of Archaeological Science_, 43, 267-277.[[url](https://doi.org/10.1016/j.jas.2013.12.019)][[pdf](Eve%20and%20Crema%202014.pdf)]
+Eve, S., **Crema, E.R.** (2014). A House with a View?  Multi-model inference, visibility fields, and point process analysis of a Bronze Age settlement on Leskernick Hill (Cornwall, UK). _Journal of Archaeological Science_, 43, 267-277.[[url](https://doi.org/10.1016/j.jas.2013.12.019)][[pdf](http://ercrema.github.io/files/Eve%20and%20Crema%202014.pdf)]
 
 Fort, J., **Crema, E.R.**  Madella, M. (2015) Modeling Demic and Cultural Diffusion: An Introduction, _Human Biology_, 87 (3), 141-149.[[url](https://dx.doi.org/10.13110/humanbiology.87.3.0141)]
 
