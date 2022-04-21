@@ -9,7 +9,7 @@ Years: [2022](#2022)・[2021](#2021)・[2020](#2020)・[2019](#2019)・[2018](#2
 ### 2022 ###
 ---
 
-**Crema, E.R.**, (2022). Statistical Inference of Prehistoric Demography from Frequency Distributions of Radiocarbon Dates: A Review and a Guide for the Perplexed. J Archaeol Method Theory. [[url](https://doi.org/10.1007/s10816-022-09559-5)][[pdf](http://ercrema.github.io/files/Crema%202022.pdf)][[code](https://github.com/ercrema/c14demoreview)]
+**Crema, E.R.**, (2022). Statistical Inference of Prehistoric Demography from Frequency Distributions of Radiocarbon Dates: A Review and a Guide for the Perplexed. _Journal of Archaeological Method and Theory_. [[url](https://doi.org/10.1007/s10816-022-09559-5)][[pdf](http://ercrema.github.io/files/Crema%202022.pdf)][[code](https://github.com/ercrema/c14demoreview)]
 
 ### 2021 ###
 ---
