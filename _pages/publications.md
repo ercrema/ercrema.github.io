@@ -7,10 +7,13 @@ author_profile: true
 Years: [2022](#2022)・[2021](#2021)・[2020](#2020)・[2019](#2019)・[2018](#2018)・[2008-2017](#2008-2017)
 
 ### 2022 ###
+---
+
 **Crema, E.R.**, (2022). Statistical Inference of Prehistoric Demography from Frequency Distributions of Radiocarbon Dates: A Review and a Guide for the Perplexed. J Archaeol Method Theory. [[url](https://doi.org/10.1007/s10816-022-09559-5)][[pdf](http://ercrema.github.io/files/Crema%202022.pdf)][[code](https://github.com/ercrema/c14demoreview)]
 
 ### 2021 ###
 ---
+
 Bevan, A., **Crema, E.R.**(2021). Modifiable reporting unit problems and time series of long-term human activity, _Philosophical Transactions of the Royal Society B_, 376(1816), 20190726 [[url](https://doi.org/10.1098/rstb.2019.0726)][[pdf](http://ercrema.github.io/files/Bevan%20and%20Crema%202021.pdf)][[code](https://github.com/ercrema/repunitprobs)]
 
 Brown, A., **Crema, E.R.** (2021). Maori Population Growth in Pre-contact New Zealand: Regional Population Dynamics Inferred From Summed Probability Distributions of Radiocarbon Dates, _Journal of Island and Coastal Archaeology_,16(2-4), 572-590 [[url](https://doi.org/10.1080/15564894.2019.1605429)][[pdf](http://ercrema.github.io/files/Brown%20and%20Crema%202019.pdf)][[code](https://github.com/andybrown81/NZ_Population)]
