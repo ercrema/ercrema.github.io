@@ -4,7 +4,10 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-Years: [2021](#2021)・[2020](#2020)・[2019](#2019)・[2018](#2018)・[2017](#2017)・[2008-2016](#2008-2016)
+Years: [2022](#2022)・[2021](#2021)・[2020](#2020)・[2019](#2019)・[2018](#2018)・[2008-2017](#2008-2017)
+
+### 2022 ###
+**Crema, E.R.**, (2022). Statistical Inference of Prehistoric Demography from Frequency Distributions of Radiocarbon Dates: A Review and a Guide for the Perplexed. J Archaeol Method Theory. [[url](https://doi.org/10.1007/s10816-022-09559-5)][[pdf](http://ercrema.github.io/files/Crema%202022.pdf)][[code](https://github.com/ercrema/c14demoreview)]
 
 ### 2021 ###
 ---
@@ -49,18 +52,7 @@ Bell, L., **Crema, E.R.** , Bunting, J., Madella, M. (2018). Simulating vegetati
 
 **Crema, E.R.** (2018). Statistical Inference and Archaeological Simulations, _The SAA Archaeological Record_,18(2), 20-23.[[url](http://onlinedigeditions.com/article/Statistical+Inference+And+Archaeological+Simulations/3048112/486133/article.html)][[pdf](http://ercrema.github.io/files/Crema%202018.pdf)]
 
-### 2017 ###
----
-
-**Crema, E.R.**, Bevan, A., Shennan, S.(2017). Spatio-temporal approaches to archaeological radiocarbon dates. _Journal of Archaeological Science_ 87, 1-9. [[url](https://doi.org/j.jas.2017.09.007)][[request copy](mailto:erc62@cam.ac.uk?subject=Request%20a%20Copy%20of%20%22Spatio-temporal%20approaches%20to%20archaeological%20radiocarbon%20dates%22)][[code](https://github.com/ercrema/JAS2017_spatialSPD)]
-
-Bortolini, E., Pagani, L., **Crema, E.R.**, Sarno, S., Barbieri, C., Boattini, A., Sazzini, M., Silva, S.G. da, Martini, G., Metspalu, M., Pettener, D., Luiselli, D., Tehrani, J.J., (2017). Inferring patterns of folktale diffusion using genomic data. _PNAS_ 201614395. [[url](https://doi.org/10.1073/pnas.1614395114)][[pdf](http://ercrema.github.io/files/Bortolini%20et%20al%202017.pdf)] 
-
-Biagetti, S., Merlo, S., Adam, E., Lobo, A., Conesa, F.C., Knight, J., Bekrani, H., **Crema, E.R.**, Alcaina-Mateos, J., Madella, M., (2017). High and Medium Resolution Satellite Imagery to Evaluate Late Holocene Human–Environment Interactions in Arid Lands: A Case Study from the Central Sahara. _Remote Sensing_ 9, 351.[[url](https://doi.org/10.3390/rs9040351)][[pdf](http://ercrema.github.io/files/Biagetti%20et%20al%202017.pdf)]
-
-Ribéreau-Gayon, A., Rando, C., Schuliar, Y., Chapenoire, S., **Crema, E.R.**, Claes, J., Seret, B., Maleret, V., Morgan, R.M., (2017). Extensive unusual lesions on a large number of immersed human victims found to be from cookiecutter sharks (Isistius spp.): an examination of the Yemenia plane crash. _International Journal of Legal Medicine_ 131, 423-432.[[url](https://doi.org/10.1007/s00414-016-1449-6)][[Request copy](mailto:erc62@cam.ac.uk?subject=Request%20a%20Copy%20of%20%22Extensive%20unusual%20lesions%20on%20a%20large%20number%20of%20immersed%20human%20victims%22)]
-
-### 2008-2016 ###
+### 2008-2017 ###
 ---
 
 Bevan, A, **Crema, E.R.**, Li, Xiuzhen, and Palmisano, A. (2013). Intensities, Interactions and Uncertainties: Some New Approaches to Archaeological Distributions. In Bevan, A. and Lake, M. (eds.) _Computational Approaches to Archaeological Space_. Walnut Creek: Left Coast Press. 27-52.[[url](https://doi.org/10.4324/9781315431932)][[request copy](mailto:erc62@cam.ac.uk?subject=Request%20a%20Copy%20of%20%22Intensities%2C%20Interactions%20and%20Uncertainties%22)]
@@ -68,6 +60,10 @@ Bevan, A, **Crema, E.R.**, Li, Xiuzhen, and Palmisano, A. (2013). Intensities, I
 Bevan, A., **Crema, E.R.** (2014) Une modélisation géographiquement explicite d’interaction culturelle. Dialectes crétois modernes, archéologie de l'âge de bronze. _Les Nouvelles de l’Archéologie_, 135, 45-50 [[url](https://doi.org/10.4000/nda.2373)][[pdf](http://ercrema.github.io/files/Bevan%20and%20Crema%202014.pdf)]
 
 Biagetti, S., Alcaina-Mateos, J., **Crema, E.R.** (2016). A matter of ephemerality. The study of Kel Tadrart campsites via quantitative spatial analysis. _Ecology and Society_ 21 (1): 42 [[url](http://dx.doi.org/10.5751/ES-08202-210142)][[pdf](http://ercrema.github.io/files/Biagetti,%20Alcaina%20and%20Crema%202016.pdf)] [[code](https://github.com/ercrema/a_matter_of_ephemerality)] 
+
+Biagetti, S., Merlo, S., Adam, E., Lobo, A., Conesa, F.C., Knight, J., Bekrani, H., **Crema, E.R.**, Alcaina-Mateos, J., Madella, M., (2017). High and Medium Resolution Satellite Imagery to Evaluate Late Holocene Human–Environment Interactions in Arid Lands: A Case Study from the Central Sahara. _Remote Sensing_ 9, 351.[[url](https://doi.org/10.3390/rs9040351)][[pdf](http://ercrema.github.io/files/Biagetti%20et%20al%202017.pdf)]
+
+Bortolini, E., Pagani, L., **Crema, E.R.**, Sarno, S., Barbieri, C., Boattini, A., Sazzini, M., Silva, S.G. da, Martini, G., Metspalu, M., Pettener, D., Luiselli, D., Tehrani, J.J., (2017). Inferring patterns of folktale diffusion using genomic data. _PNAS_ 201614395. [[url](https://doi.org/10.1073/pnas.1614395114)][[pdf](http://ercrema.github.io/files/Bortolini%20et%20al%202017.pdf)] 
 
 **Crema, E.R.**, (2011). Aoristic approaches and voxel models for spatial analysis. In: Jerem, E.,Redo, F. & Szeverényi, V. (Eds.) _On the road to reconstructing the past. Computer Applications and Quantitative Methods in Archaeology_. Proceedings of the 36th International Conference, Budapest, April 2-6, 2008. Budapest: Archeolingua, pp.179-186.[[url/pdf](https://proceedings.caaconference.org/paper/cd12_crema_caa2008/)]
 
@@ -80,6 +76,8 @@ Biagetti, S., Alcaina-Mateos, J., **Crema, E.R.** (2016). A matter of ephemerali
 **Crema E.R.** (2015). Modeling settlement rank-size fluctuations. In Wurzer, G. Kowarik, K. and Reschreiter, H. (eds.) _Agent-based modeling and Simulation in Archaeology_. Advances in Geographic Information Science, Springer, pp.161-181.[[url](https://doi.org/10.1007/978-3-319-00008-4)][[request copy](mailto:erc62@cam.ac.uk?subject=Request%20a%20Copy%20of%20%22Modeling%20settlement%20rank-size%20fluctuations%22)]
 
 **Crema, E.R.** (2015). Time and probabilistic reasoning in Settlement Analysis. In Barceló, J.A., Bogdanovic, I. (Eds.) _Mathematics in Archaeology_, CRC Press, pp. 314-334.[[url](https://doi.org/10.1201/b18530)][[request copy](mailto:erc62@cam.ac.uk?subject=Request%20a%20Copy%20of%20%22Time%20and%20probabilistic%20reasoning%20in%20Settlement%20Analysis%22)]
+
+**Crema, E.R.**, Bevan, A., Shennan, S.(2017). Spatio-temporal approaches to archaeological radiocarbon dates. _Journal of Archaeological Science_ 87, 1-9. [[url](https://doi.org/j.jas.2017.09.007)][[request copy](mailto:erc62@cam.ac.uk?subject=Request%20a%20Copy%20of%20%22Spatio-temporal%20approaches%20to%20archaeological%20radiocarbon%20dates%22)][[code](https://github.com/ercrema/JAS2017_spatialSPD)]
 
 **Crema, E.R.**, Bevan, A. and Lake, M. (2010). A probabilistic framework for assessing spatiotemporal point patterns in the archaeological record. _Journal of Archaeological Science_, 37, 1118-1130.[[url](https://doi.org/10.1016/j.jas.2009.12.012)][[request copy](mailto:erc62@cam.ac.uk?subject=Request%20a%20Copy%20of%20%22%20A%20probabilistic%20framework%20for%20assessing%20spatiotemporal%20point%20patterns%20in%20the%20archaeological%20record%22)]
 
@@ -116,6 +114,8 @@ Mannino, M. A., Thomas, K.D., **Crema E.R.**, and Leng, M.J. (2014). A matter of
 Mulazzani, S., Boussoffara, R., Aouadi, N., Azzarà, V., Belhouchet, L., Boujekben, A., **Crema, E.R.**, Curci, A., Del Grande, C., Maini, E., Mannino, M., Mazzanti, C., Scaruffi, S. (2008). Entre Sahara et Méditterranée. Le peuplement de Sebkhet Halk el menjel (Tunisie Orientale) penadant l’Holocène (Campagnes 2002-2005). Africa, XXI, 189-212. [[request copy](mailto:erc62@cam.ac.uk?subject=Request%20a%20Copy%20of%20%22Entre%20Sahara%20et%20M%C3%A9ditterran%C3%A9e.%20Le%20peuplement%20de%20Sebkhet%20Halk%20el%20menjel%22)]
 
 Mulazzani, S., Boussoffara, R., Azzarà, V., Belhouchet, L., Boldrin, M. Boujekben, A., **Crema, E.R.**, Mannino, M.A., Del Grande C., Mazzanti C., Scaruffi, S. (2008). Between the Sahara and the Mediterranean: a study of the Middle Holocene communities of the Sebkhet Halk al Menzel (Tunisia). The first three Campaigns 2002-2004, In Menozzi O., Di Marzio M. L., Fossataro D. (Eds.) SOMA 2005 Proceedings of the IX Symposium on Mediterranean Archaeology, Chieti (Italy), 24- 26 February 2005. BAR International Series, n. 1793, Oxford: Archaeopress, pp 383-390.[[request copy](mailto:erc62@cam.ac.uk?subject=Request%20a%20Copy%20of%20%22etween%20the%20Sahara%20and%20the%20Mediterranean%3A%20a%20study%20of%20the%20Middle%20Holocene%20communities%20of%20the%20Sebkhet%20Halk%20al%20Menzel%20(Tunisia)%22)]
+
+Ribéreau-Gayon, A., Rando, C., Schuliar, Y., Chapenoire, S., **Crema, E.R.**, Claes, J., Seret, B., Maleret, V., Morgan, R.M., (2017). Extensive unusual lesions on a large number of immersed human victims found to be from cookiecutter sharks (Isistius spp.): an examination of the Yemenia plane crash. _International Journal of Legal Medicine_ 131, 423-432.[[url](https://doi.org/10.1007/s00414-016-1449-6)][[Request copy](mailto:erc62@cam.ac.uk?subject=Request%20a%20Copy%20of%20%22Extensive%20unusual%20lesions%20on%20a%20large%20number%20of%20immersed%20human%20victims%22)]
 
 Shennan, S., **Crema, E.R.**, Kerig, T. (2015). Isolation-by-distance, homophily, and "core" vs. "package" cultural evolution models in Neolithic Europe. _Evolution and Human Behaviour_. 36 (2), 103-109.[[url/code](https://doi.org/10.1016/j.evolhumbehav.2014.09.006)][[pdf](http://ercrema.github.io/files/Shennan,Crema%20and%20Kerig%202015)]
 
