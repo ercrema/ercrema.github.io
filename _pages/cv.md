@@ -27,7 +27,8 @@ Research Projects and Collaborations
 ======
 * Current Projects
   * 2019-2024 [Demography, Cultural change, and the Diffusion of Rice and Millet during the Jomon-Yayoi transition in prehistoric Japan (ENCOUNTER) Project](https://www.encounterproject.info/), ERC Starter Grant (PI)
-  * 2017-2021 [Crops, pollinators and people: the long-term dynamics of a critical symbiosis (BuckBee) Project](https://www.arch.cam.ac.uk/research/projects/current-projects/buckbee-project), Leverhulme Research Grant (Co-I)
+  * 2017-2021 [Crops, pollinators and people: the long-term dynamics of a critical symbiosis (BuckBee) Project](https://www.arch.cam.ac.uk/research/projects/current-projects/buckbee-project), Leverhulme Research Grant (Co-I, PI: Prof. Martin Jones)
+  * 2021-2023 [ArchBiMod – Agent-Based Modelling to assess the quality and bias of the archaeological record](https://www.arch.cam.ac.uk/research/projects/current-projects/archbimod-agent-based-modelling-assess-quality-and-bias), Marie Sklodowska-Curie IF (Host Supervisor; PDRA: Dr. Alfredo Cortell-Nicolau) 
 * Collaborations
   * [LandCover6K](http://pastglobalchanges.org/science/wg/landcover6k/intro) (Archaeology/history-based LU, WP-LU8)
 
@@ -41,6 +42,7 @@ Teaching
   * B6 Major Topics in Human Evolutionary Studies (Guest Lecturer)
   
 * Current PhD Students
+  * Rachel Blevis (main supervisor)
   * Leah Brainerd (main supervisor)
   * Friederike Jürcke (advisor, main supervisor: Dr Cameron Petrie)
   * Marta Krzyzanska (main supervisor)
@@ -59,6 +61,8 @@ Teaching
 Selected Publications
 ======
 (see [here](https://ercrema.github.io/publications/) for full list, links, and dowloads)
+
+* Crema, E.R., (2022). Statistical Inference of Prehistoric Demography from Frequency Distributions of Radiocarbon Dates: A Review and a Guide for the Perplexed. Journal of Archaeological Method and Theory. https://doi.org/10.1007/s10816-022-09559-5
 
 * Crema, E.R., Bevan, A. (2021). Inference from large sets of radiocarbon dates: software and methods, _Radiocarbon_, 63, 23-39.
 
