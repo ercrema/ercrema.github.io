@@ -12,10 +12,13 @@ Years: [2022](#2022)・[2021](#2021)・[2020](#2020)・[2019](#2019)・[2018](#2
 Bradford, D. J., **Crema, E. R.** (2022). Risk factors for the occurrence of sexual misconduct during archaeological and anthropological fieldwork. _American Anthropologist_,DOI:10.1111/aman.13763 [[url](https://doi.org/10.1111/aman.13763)][[request copy](mailto:erc62@cam.ac.uk?subject=Request%20a%20Copy%20of%Bradford_and_Crema%202022)][[preprint](
 https://osf.io/preprints/socarxiv/a38d2/download)]
 
-
 **Crema, E.R.**, (2022). Statistical Inference of Prehistoric Demography from Frequency Distributions of Radiocarbon Dates: A Review and a Guide for the Perplexed. _Journal of Archaeological Method and Theory_. [[url](https://doi.org/10.1007/s10816-022-09559-5)][[pdf](http://ercrema.github.io/files/Crema%202022.pdf)][[code](https://github.com/ercrema/c14demoreview)]
 
+Krzyzanska, M., Hunt, V.H., **Crema, E.R.**, Jones, M.K. (2022) Modelling the potential ecological niche of domesticated buckwheat in China: archaeological evidence, environmental constraints and climate change. _Vegetation History and Archaeobotany_.,31,331-345 [[url](https://doi.org/10.1007/s00334-021-00856-9)] [[pdf](http://ercrema.github.io/files/Krzyzanska%20et%20al%202021.pdf)][[code](https://github.com/mkrzyzanska/BuckwheatNicheModelling)] 
+
 Prentiss, A.M., Edinborough, K., **Crema, E. R.**, Kuijt, I., Goodale, N., Ryan, E., et al. (2022). Divergent population dynamics in the middle to late Holocene lower Fraser valley and mid-Fraser canyon, British Columbia. _Journal of Archaeological Science: Reports_, 44, 103512. [[url/code/pdf](https://doi.org/10.1016/j.jasrep.2022.103512)][[request copy](mailto:erc62@cam.ac.uk?subject=Request%20a%20Copy%20of%20Prentiss%20etal%202022)] 
+
+Silva, F., Coward, F., Davies, K., Elliott, S., Jenkins, E., Newton, A. C., et al. (2022). Developing Transdisciplinary Approaches to Sustainability Challenges: The Need to Model Socio-Environmental Systems in the Longue Durée. Sustainability, 14(16), 10234. [[url/pdf](https://www.mdpi.com/2071-1050/14/16/10234)]
 
 
 ### 2021 ###
@@ -33,9 +36,6 @@ Di Napoli, R.J., **Crema, E.R.**, Lipo, C.P., Rieth, T.M., Hunt, T.L. (2021).App
 
 Kim, H., Lee, G.A., **Crema, E.R.**. (2021). Bayesian analyses question the role of climate in Chulmun demography. _Scientific Reports_,11, Article number: 23797. [[url](https://doi.org/10.1038/s41598-021-03180-4)][[pdf](http://ercrema.github.io/files/Kim%20et%20al%202021.pdf)][[code](https://github.com/ercrema/NeolithicKoreaDemography)]
 
-Krzyzanska, M., Hunt, V.H., **Crema, E.R.**, Jones, M.K. (2021) Modelling the potential ecological niche of domesticated buckwheat in China: archaeological evidence, environmental constraints and climate change. _Vegetation History and Archaeobotany_. [[url](https://doi.org/10.1007/s00334-021-00856-9)] [[pdf](http://ercrema.github.io/files/Krzyzanska%20et%20al%202021.pdf)][[code](https://github.com/mkrzyzanska/BuckwheatNicheModelling)] 
-
-
 
 ### 2020 ###
 ---
@@ -49,7 +49,7 @@ Lucarini, G., Wilkinson, T., **Crema, E.R.**, Palombini, A., Bevan, A., Broodban
 ### 2019 ###
 ---
 
-Colledge, S., Conolly, J. **Crema, E.R.**, Shennan, S. (2019) Neolithic population crash in northwest Europe associated with agricultural crisis. _Quaternary Research_,92(3),686-707. [[url](https://doi.org/0.1017/qua.2019.42)][[request copy](mailto:erc62@cam.ac.uk?subject=Request%20a%20Copy%20of%20%22Neolithic%20population%20crash%20in%20northwest%20Europe%20associated%20with%20agricultural%20crisis.%22)]
+Colledge, S., Conolly, J. **Crema, E.R.**, Shennan, S. (2019) Neolithic population crash in northwest Europe associated with agricultural crisis. _Quaternary Research_,92(3),686-707. [[url](https://doi.org/10.1017/qua.2019.42)][[request copy](mailto:erc62@cam.ac.uk?subject=Request%20a%20Copy%20of%20%22Neolithic%20population%20crash%20in%20northwest%20Europe%20associated%20with%20agricultural%20crisis.%22)]
 
 Kandler, A., **Crema, E.R. (2019)**. Analysing Cultural Frequency Data: Neutral Theory and Beyond. In _Handbook of Evolutionary Research in Archaeology_, A. Prentiss (Eds.), Springer, pp 83-108.[[url](https://link.springer.com/chapter/10.1007/978-3-030-11117-5_5)][[preprint](https://osf.io/preprints/socarxiv/kvmzu/)][[request copy]](mailto:erc62@cam.ac.uk?subject=Request%20a%20Copy%20of%20%22Analysing%20Cultural%20Frequency%20Data%3A%20Neutral%20Theory%20and%20Beyond%22)[[code](https://github.com/ercrema/HERAChp.KandlerCrema)]
 
