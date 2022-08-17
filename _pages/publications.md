@@ -18,7 +18,7 @@ Krzyzanska, M., Hunt, V.H., **Crema, E.R.**, Jones, M.K. (2022) Modelling the po
 
 Prentiss, A.M., Edinborough, K., **Crema, E. R.**, Kuijt, I., Goodale, N., Ryan, E., et al. (2022). Divergent population dynamics in the middle to late Holocene lower Fraser valley and mid-Fraser canyon, British Columbia. _Journal of Archaeological Science: Reports_, 44, 103512. [[url/code/pdf](https://doi.org/10.1016/j.jasrep.2022.103512)][[request copy](mailto:erc62@cam.ac.uk?subject=Request%20a%20Copy%20of%20Prentiss%20etal%202022)] 
 
-Silva, F., Coward, F., Davies, K., Elliott, S., Jenkins, E., Newton, A. C., et al. (2022). Developing Transdisciplinary Approaches to Sustainability Challenges: The Need to Model Socio-Environmental Systems in the Longue Durée. Sustainability, 14(16), 10234. [[url/pdf](https://www.mdpi.com/2071-1050/14/16/10234)]
+Silva, F., Coward, F., Davies, K., Elliott, S., Jenkins, E., Newton, A. C., et al. (2022). Developing Transdisciplinary Approaches to Sustainability Challenges: The Need to Model Socio-Environmental Systems in the Longue Durée. _Sustainability_, 14(16), 10234. [[url/pdf](https://www.mdpi.com/2071-1050/14/16/10234)]
 
 
 ### 2021 ###
