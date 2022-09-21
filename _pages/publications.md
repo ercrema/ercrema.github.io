@@ -14,6 +14,8 @@ https://osf.io/preprints/socarxiv/a38d2/download)]
 
 **Crema, E.R.**, (2022). Statistical Inference of Prehistoric Demography from Frequency Distributions of Radiocarbon Dates: A Review and a Guide for the Perplexed. _Journal of Archaeological Method and Theory_. [[url](https://doi.org/10.1007/s10816-022-09559-5)][[pdf](http://ercrema.github.io/files/Crema%202022.pdf)][[code](https://github.com/ercrema/c14demoreview)]
 
+**Crema, E. R.**, Stevens, C. J., & Shoda, S. (2022). Bayesian analyses of direct radiocarbon dates reveal geographic variations in the rate of rice farming dispersal in prehistoric Japan. _Science Advances_, 8(38), eadc9171. [[url](https://doi.org/10.1126/sciadv.adc9171)][[pdf](http://ercrema.github.io/files/Crema%20et%20al%202022.pdf)][[code](https://github.com/ercrema/yayoi_rice_dispersal)]
+
 Krzyzanska, M., Hunt, V.H., **Crema, E.R.**, Jones, M.K. (2022) Modelling the potential ecological niche of domesticated buckwheat in China: archaeological evidence, environmental constraints and climate change. _Vegetation History and Archaeobotany_.,31,331-345 [[url](https://doi.org/10.1007/s00334-021-00856-9)] [[pdf](http://ercrema.github.io/files/Krzyzanska%20et%20al%202021.pdf)][[code](https://github.com/mkrzyzanska/BuckwheatNicheModelling)] 
 
 Prentiss, A.M., Edinborough, K., **Crema, E. R.**, Kuijt, I., Goodale, N., Ryan, E., et al. (2022). Divergent population dynamics in the middle to late Holocene lower Fraser valley and mid-Fraser canyon, British Columbia. _Journal of Archaeological Science: Reports_, 44, 103512. [[url/code/pdf](https://doi.org/10.1016/j.jasrep.2022.103512)][[request copy](mailto:erc62@cam.ac.uk?subject=Request%20a%20Copy%20of%20Prentiss%20etal%202022)] 
