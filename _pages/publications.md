@@ -22,6 +22,8 @@ Prentiss, A.M., Edinborough, K., **Crema, E. R.**, Kuijt, I., Goodale, N., Ryan,
 
 Silva, F., Coward, F., Davies, K., Elliott, S., Jenkins, E., Newton, A. C., et al. (2022). Developing Transdisciplinary Approaches to Sustainability Challenges: The Need to Model Socio-Environmental Systems in the Longue Durée. _Sustainability_, 14(16), 10234. [[url/pdf](https://www.mdpi.com/2071-1050/14/16/10234)]
 
+Stevens, C. J., **Crema, E. R.**, & Shoda, S. (2022). The importance of wild resources as a reflection of the resilience and changing nature of early agricultural systems in East Asia and Europe. _Frontiers in Ecology and Evolution_, 10.[[url](https://doi.org/10.3389/fevo.2022.1017909)] [[pdf](http://ercrema.github.io/files/Stevens%20et%20al%202022.pdf)] [[code](https://github.com/ercrema/Stevens_etal_2022)]
+
 
 ### 2021 ###
 ---
