@@ -12,7 +12,7 @@ Years: [2022](#2022)・[2021](#2021)・[2020](#2020)・[2019](#2019)・[2018](#2
 Bradford, D. J., **Crema, E. R.** (2022). Risk factors for the occurrence of sexual misconduct during archaeological and anthropological fieldwork. _American Anthropologist_,124(3),548-559. [[url](https://doi.org/10.1111/aman.13763)][[request copy](mailto:erc62@cam.ac.uk?subject=Request%20a%20Copy%20of%Bradford_and_Crema%202022)][[preprint](
 https://osf.io/preprints/socarxiv/a38d2/download)]
 
-**Crema, E.R.**, (2022). Statistical Inference of Prehistoric Demography from Frequency Distributions of Radiocarbon Dates: A Review and a Guide for the Perplexed. _Journal of Archaeological Method and Theory_. [[url](https://doi.org/10.1007/s10816-022-09559-5)][[pdf](http://ercrema.github.io/files/Crema%202022.pdf)][[code](https://github.com/ercrema/c14demoreview)]
+**Crema, E.R.**, (2022). Statistical Inference of Prehistoric Demography from Frequency Distributions of Radiocarbon Dates: A Review and a Guide for the Perplexed. _Journal of Archaeological Method and Theory_, 29, 1387–1418 [[url](https://doi.org/10.1007/s10816-022-09559-5)][[pdf](http://ercrema.github.io/files/Crema%202022.pdf)][[code](https://github.com/ercrema/c14demoreview)]
 
 **Crema, E. R.**, Stevens, C. J., & Shoda, S. (2022). Bayesian analyses of direct radiocarbon dates reveal geographic variations in the rate of rice farming dispersal in prehistoric Japan. _Science Advances_, 8(38), eadc9171. [[url](https://doi.org/10.1126/sciadv.adc9171)][[pdf](http://ercrema.github.io/files/Crema%20et%20al%202022.pdf)][[code](https://github.com/ercrema/yayoi_rice_dispersal)]
 
