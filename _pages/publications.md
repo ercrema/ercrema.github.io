@@ -4,7 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-Years: [2022](#2022)・[2021](#2021)・[2020](#2020)・[2019](#2019)・[2018](#2018)・[2008-2017](#2008-2017)
+Years: [2023](#2023)・[2022](#2022)・[2021](#2021)・[2020](#2020)・[2019](#2019)・[2008-2018](#2008-2018)
+
+### 2023 ###
+---
+**Crema, E. R.**, Lake, M., Bortolini, E. (2023). How Cultural Transmission Through Objects Impacts Inferences About Cultural Evolution. _Journal of Archaeological Method and Theory_ [[url](https://doi.org/10.1007/s10816-022-09599-x)][[pdf](http://ercrema.github.io/files/Crema%20et%20al%202023.pdf)][[code](https://github.com/ercrema/objectmediated_transmission)]
 
 ### 2022 ###
 ---
@@ -59,15 +63,10 @@ Kandler, A., **Crema, E.R. (2019)**. Analysing Cultural Frequency Data: Neutral 
 
 Saag, L., et al. (2019). The Arrival of Siberian Ancestry Connecting the Eastern Baltic to Uralic Speakers further East. _Current Biology_ 29, 1701–1711 [[url](https://doi.org/10.1016/j.cub.2019.04.026)][[request copy](mailto:erc62@cam.ac.uk?subject=Request%20a%20Copy%20of%20%22The%20Arrival%20of%20Siberian%20Ancestry%20Connecting%20the%20Eastern%20Baltic%20to%20Uralic%20Speakers%20further%20East%22)]
 
-### 2018 ###
+### 2008-2017 ###
 ---
 
 Bell, L., **Crema, E.R.** , Bunting, J., Madella, M. (2018). Simulating vegetation in ancient Japan using HuMPol: a pollen-based multi-scenario modeling approach. _PAGES Magazine_, 26, 22-23.[[url/pdf](http://pastglobalchanges.org/download/docs/magazine/2018-1/PAGESmagazine_2018%281%29_22-23.pdf)]
-
-**Crema, E.R.** (2018). Statistical Inference and Archaeological Simulations, _The SAA Archaeological Record_,18(2), 20-23.[[url](http://onlinedigeditions.com/article/Statistical+Inference+And+Archaeological+Simulations/3048112/486133/article.html)][[pdf](http://ercrema.github.io/files/Crema%202018.pdf)]
-
-### 2008-2017 ###
----
 
 Bevan, A, **Crema, E.R.**, Li, Xiuzhen, and Palmisano, A. (2013). Intensities, Interactions and Uncertainties: Some New Approaches to Archaeological Distributions. In Bevan, A. and Lake, M. (eds.) _Computational Approaches to Archaeological Space_. Walnut Creek: Left Coast Press. 27-52.[[url](https://doi.org/10.4324/9781315431932)][[request copy](mailto:erc62@cam.ac.uk?subject=Request%20a%20Copy%20of%20%22Intensities%2C%20Interactions%20and%20Uncertainties%22)]
 
@@ -92,6 +91,8 @@ Bortolini, E., Pagani, L., **Crema, E.R.**, Sarno, S., Barbieri, C., Boattini, A
 **Crema, E.R.** (2015). Time and probabilistic reasoning in Settlement Analysis. In Barceló, J.A., Bogdanovic, I. (Eds.) _Mathematics in Archaeology_, CRC Press, pp. 314-334.[[url](https://doi.org/10.1201/b18530)][[request copy](mailto:erc62@cam.ac.uk?subject=Request%20a%20Copy%20of%20%22Time%20and%20probabilistic%20reasoning%20in%20Settlement%20Analysis%22)]
 
 **Crema, E.R.**, Bevan, A., Shennan, S.(2017). Spatio-temporal approaches to archaeological radiocarbon dates. _Journal of Archaeological Science_ 87, 1-9. [[url](https://doi.org/j.jas.2017.09.007)][[request copy](mailto:erc62@cam.ac.uk?subject=Request%20a%20Copy%20of%20%22Spatio-temporal%20approaches%20to%20archaeological%20radiocarbon%20dates%22)][[code](https://github.com/ercrema/JAS2017_spatialSPD)]
+
+**Crema, E.R.** (2018). Statistical Inference and Archaeological Simulations, _The SAA Archaeological Record_,18(2), 20-23.[[url](http://onlinedigeditions.com/article/Statistical+Inference+And+Archaeological+Simulations/3048112/486133/article.html)][[pdf](http://ercrema.github.io/files/Crema%202018.pdf)]
 
 **Crema, E.R.**, Bevan, A. and Lake, M. (2010). A probabilistic framework for assessing spatiotemporal point patterns in the archaeological record. _Journal of Archaeological Science_, 37, 1118-1130.[[url](https://doi.org/10.1016/j.jas.2009.12.012)][[request copy](mailto:erc62@cam.ac.uk?subject=Request%20a%20Copy%20of%20%22%20A%20probabilistic%20framework%20for%20assessing%20spatiotemporal%20point%20patterns%20in%20the%20archaeological%20record%22)]
 
