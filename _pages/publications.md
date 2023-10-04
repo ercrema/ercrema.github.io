@@ -10,6 +10,8 @@ Years: [2023](#2023)・[2022](#2022)・[2021](#2021)・[2020](#2020)・[2019](#2
 ---
 **Crema, E. R.**, Bortolini, E., Lake,M. (2023). How Cultural Transmission Through Objects Impacts Inferences About Cultural Evolution. _Journal of Archaeological Method and Theory_ [[url](https://doi.org/10.1007/s10816-022-09599-x)][[pdf](http://ercrema.github.io/files/Crema%20et%20al%202023.pdf)][[code](https://github.com/ercrema/objectmediated_transmission)]
 
+Kudo, Y., Sakamoto, M. Hakozaki, M., Stevens, C, **Crema, E.R.** (2023). An archaeological radiocarbon database of Japan. _Journal of Open Archaeology Data_ 11:11, pp 1-9, [[url](https://doi.org/10.5334/joad.115)][[pdf](http://ercrema.github.io/files/Kudo_et_al_2023.pdf)][[code](https://github.com/ercrema/japan_c14db)]
+
 ### 2022 ###
 ---
 
