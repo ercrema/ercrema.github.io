@@ -4,7 +4,12 @@ title: "R Packages"
 permalink: /rpackages/
 author_profile: true
 ---
+## _NEW!_ baorista 
+---
+_baorista_ is an R package for analysing archaeological time-frequencies where each event is associated with chronological uncertainty. It is designed to be a Bayesian alternative to aoristic analysis. At its core _baorista_ provides a series of utility and wrapper functions based on [nimble](https://CRAN.R-project.org/package=nimble). 
 
+* GitHub [link](https://github.com/ercrema/baorista)
+* Preprint paper: [Crema 2023](https://osf.io/98qkx/)
 
 ## rcarbon <img src="/files/rcarbon.png" align="right" />
 ---
@@ -16,19 +21,20 @@ Developed with [Andrew Bevan](https://www.ucl.ac.uk/archaeology/people/andrew-be
 
 ## nimbleCarbon <img src="/files/nimblecarbon.png" align="right"/>
 ---
-_nimbleCarbon_ is an add-on library for the [nimble](https://CRAN.R-project.org/package=nimble) R package whic provides utility functions and bespoke probability distributions for Bayesian analyses of radiocarbon dates. The package is particularly suited for demographic inferences based on changing frequencies of radiocarbon dates and enables parameter estimations and model comparison. 
+_nimbleCarbon_ is an add-on library for the [nimble](https://CRAN.R-project.org/package=nimble) R package which provides utility functions and bespoke probability distributions for Bayesian analyses of radiocarbon dates. The package is particularly suited for demographic inferences based on changing frequencies of radiocarbon dates and enables parameter estimations and model comparison. 
 
 
 * CRAN [link](https://CRAN.R-project.org/package=nimbleCarbon)
 * GitHub [link](https://github.com/ercrema/nimbleCarbon)
 * Associated Paper: [Crema and Shoda 2021](https://doi.org/10.1371/journal.pone.0251695)
 
-
 ## cTransmission
 ---
 _cTransmission_ is an experimental R package developed with [Anne Kandler](https://www.eva.mpg.de/ecology/staff/anne-kandler/) for cultural evolutionary analyses of frequency data via approximate Bayesian computation.
 
-* Github[link](https://github.com/ercrema/cTransmission)
+* Github [link](https://github.com/ercrema/cTransmission)
+
+
 
 
 
