@@ -8,6 +8,8 @@ Years: [2023](#2023)・[2022](#2022)・[2021](#2021)・[2020](#2020)・[2019](#2
 
 ### Preprints ###
 ---
+Bogard, A. et. al. (2023)/ The Global Dynamics of Inequality (GINI) project: analysing archaeological housing data [[URL](https://doi.org/10.15184/aqy.2023.188)][[pdf](http://ercrema.github.io/files/bogaard_et_al_2023.pdf)]
+
 **Crema, E. R.** (2023). A Bayesian alternative to Aoristic analyses in archaeology. _OSF Preprints_. [[URL](https://doi.org/10.31219/osf.io/98qkx)][[pdf](http://ercrema.github.io/files/Crema_baorista_paper.pdf)][[code](https://github.com/ercrema/beyond_aoristic)]
 
 Riris,P., Silva F., **Crema, E.R.**, Palmisano, A., Robinson, E., et al. (2023). Frequent disturbances enhanced the resilience of past human populations. _Research Square_ [[URL](https://doi.org/10.21203/rs.3.rs-3716011/v1)][[pdf](http://ercrema.github.io/files/Riris_et_al_2023.pdf)][[code](https://zenodo.org/doi/10.5281/zenodo.10061466)]
