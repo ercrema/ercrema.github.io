@@ -4,7 +4,7 @@ title: "R Packages"
 permalink: /rpackages/
 author_profile: true
 ---
-## _NEW!_ baorista 
+## _NEW!_ baorista  <img src="/files/baorista.png" align="right"/>
 ---
 _baorista_ is an R package for analysing archaeological time-frequencies where each event is associated with chronological uncertainty. It is designed to be a Bayesian alternative to aoristic analysis. At its core _baorista_ provides a series of utility and wrapper functions based on [nimble](https://CRAN.R-project.org/package=nimble). 
 
