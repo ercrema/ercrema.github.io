@@ -14,9 +14,9 @@ Riris,P., Silva F., **Crema, E.R.**, Palmisano, A., Robinson, E., et al. (2023).
 
 ### 2024 ###
 
-**Crema, E. R.**, Bortolini, E., Lake,M. (2024). How Cultural Transmission Through Objects Impacts Inferences About Cultural Evolution. _Journal of Archaeological Method and Theory_, 31, 202-226. [[url](https://doi.org/10.1007/s10816-022-09599-x)][[pdf](http://ercrema.github.io/files/Crema_etal_2024a.pdf)][[code](https://github.com/ercrema/objectmediated_transmission)]
+**Crema, E. R.**, Bortolini, E., Lake,M. (2024). How Cultural Transmission Through Objects Impacts Inferences About Cultural Evolution. _Journal of Archaeological Method and Theory_, 31, 202-226. [[url](https://doi.org/10.1007/s10816-022-09599-x)][[pdf](http://ercrema.github.io/files/Crema%20et%20al%202023.pdf)][[code](https://github.com/ercrema/objectmediated_transmission)]
 
-**Crema, E.R.**, Bloxam, A., Stevens, C., Vander Linden, M. (2024). Modelling diffusion of innovation curves using radiocarbon data. _Journal of Archaeological Science_, 165, 105962. [[url](https://doi.org/10.1016/j.jas.2024.105962)][[pdf](http://ercrema.github.io/filesCrema_etal_2024a.pdf)][[code](https://github.com/ercrema/diffusionCurve)]  
+**Crema, E.R.**, Bloxam, A., Stevens, C., Vander Linden, M. (2024). Modelling diffusion of innovation curves using radiocarbon data. _Journal of Archaeological Science_, 165, 105962. [[url](https://doi.org/10.1016/j.jas.2024.105962)][[pdf](http://ercrema.github.io/files/Crema_etal_2024a.pdf)][[code](https://github.com/ercrema/diffusionCurve)]  
 ### 2023 ###
 ---
 Bogaard, A., Ortman, S., Birch, J., Quequezana, G. C., Chirikure, S., **Crema, E. R.**, et al. (2023). The Global Dynamics of Inequality (GINI) project: analysing archaeological housing data. _Antiquity_, 1–7. [[url](https://doi.org/10.15184/aqy.2023.188)][[pdf](http://ercrema.github.io/files/Bogaard_et_al_2023.pdf)]
