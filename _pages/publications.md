@@ -13,7 +13,7 @@ Years: [2024](#2024)・[2023](#2023)・[2022](#2022)・[2021](#2021)・[2020](#2
 Riris,P., Silva F., **Crema, E.R.**, Palmisano, A., Robinson, E., et al. (2023). Frequent disturbances enhanced the resilience of past human populations. _Research Square_ [[url](https://doi.org/10.21203/rs.3.rs-3716011/v1)][[pdf](http://ercrema.github.io/files/Riris_et_al_2023.pdf)][[code](https://zenodo.org/doi/10.5281/zenodo.10061466)]
 
 ### 2024 ###
-
+---
 **Crema, E. R.**, Bortolini, E., Lake,M. (2024). How Cultural Transmission Through Objects Impacts Inferences About Cultural Evolution. _Journal of Archaeological Method and Theory_, 31, 202-226. [[url](https://doi.org/10.1007/s10816-022-09599-x)][[pdf](http://ercrema.github.io/files/Crema%20et%20al%202023.pdf)][[code](https://github.com/ercrema/objectmediated_transmission)]
 
 **Crema, E.R.**, Bloxam, A., Stevens, C., Vander Linden, M. (2024). Modelling diffusion of innovation curves using radiocarbon data. _Journal of Archaeological Science_, 165, 105962. [[url](https://doi.org/10.1016/j.jas.2024.105962)][[pdf](http://ercrema.github.io/files/Crema_etal_2024a.pdf)][[code](https://github.com/ercrema/diffusionCurve)]  
