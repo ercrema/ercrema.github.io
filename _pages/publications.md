@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-Years: [2023](#2023)・[2022](#2022)・[2021](#2021)・[2020](#2020)・[2019](#2019)・[2008-2018](#2008-2018)
+Years: [2024](#2024)・[2023](#2023)・[2022](#2022)・[2021](#2021)・[2020](#2020)・[2008-2019](#2008-2019)
 
 ### Preprints ###
 ---
@@ -12,12 +12,14 @@ Years: [2023](#2023)・[2022](#2022)・[2021](#2021)・[2020](#2020)・[2019](#2
 
 Riris,P., Silva F., **Crema, E.R.**, Palmisano, A., Robinson, E., et al. (2023). Frequent disturbances enhanced the resilience of past human populations. _Research Square_ [[url](https://doi.org/10.21203/rs.3.rs-3716011/v1)][[pdf](http://ercrema.github.io/files/Riris_et_al_2023.pdf)][[code](https://zenodo.org/doi/10.5281/zenodo.10061466)]
 
+### 2024 ###
 
+**Crema, E. R.**, Bortolini, E., Lake,M. (2024). How Cultural Transmission Through Objects Impacts Inferences About Cultural Evolution. _Journal of Archaeological Method and Theory_, 31, 202-226. [[url](https://doi.org/10.1007/s10816-022-09599-x)][[pdf](http://ercrema.github.io/files/Crema_etal_2024a.pdf)][[code](https://github.com/ercrema/objectmediated_transmission)]
+
+**Crema, E.R.**, Bloxam, A., Stevens, C., Vander Linden, M. (2024). Modelling diffusion of innovation curves using radiocarbon data. _Journal of Archaeological Science_, 165, 105962. [[url](https://doi.org/10.1016/j.jas.2024.105962)][[pdf](http://ercrema.github.io/files/Crema%20et%20al%202024a.pdf))][[code](https://github.com/ercrema/diffusionCurve)]  
 ### 2023 ###
 ---
 Bogaard, A., Ortman, S., Birch, J., Quequezana, G. C., Chirikure, S., **Crema, E. R.**, et al. (2023). The Global Dynamics of Inequality (GINI) project: analysing archaeological housing data. _Antiquity_, 1–7. [[url](https://doi.org/10.15184/aqy.2023.188)][[pdf](http://ercrema.github.io/files/Bogaard_et_al_2023.pdf)]
-
-**Crema, E. R.**, Bortolini, E., Lake,M. (2023). How Cultural Transmission Through Objects Impacts Inferences About Cultural Evolution. _Journal of Archaeological Method and Theory_ [[url](https://doi.org/10.1007/s10816-022-09599-x)][[pdf](http://ercrema.github.io/files/Crema%20et%20al%202023.pdf)][[code](https://github.com/ercrema/objectmediated_transmission)]
 
 Kudo, Y., Sakamoto, M. Hakozaki, M., Stevens, C, **Crema, E.R.** (2023). An archaeological radiocarbon database of Japan. _Journal of Open Archaeology Data_ 11:11, pp 1-9, [[url](https://doi.org/10.5334/joad.115)][[pdf](http://ercrema.github.io/files/Kudo_et_al_2023.pdf)][[code](https://github.com/ercrema/japan_c14db)]
 
@@ -65,16 +67,7 @@ Kim, H., Lee, G.A., **Crema, E.R.**. (2021). Bayesian analyses question the role
 
 Lucarini, G., Wilkinson, T., **Crema, E.R.**, Palombini, A., Bevan, A., Broodbank, C., (2020). The MedAfriCarbon Radiocarbon Database and Web Application. Archaeological Dynamics in Mediterranean Africa, ca. 9600–700 BC. _Journal of Open Archaeology Data_ 8, 1. [[url](https://doi.org/10.5334/joad.60)][[pdf](http://ercrema.github.io/files/60-452-1-PB.pdf)]
 
-### 2019 ###
----
-
-Colledge, S., Conolly, J. **Crema, E.R.**, Shennan, S. (2019) Neolithic population crash in northwest Europe associated with agricultural crisis. _Quaternary Research_,92(3),686-707. [[url](https://doi.org/10.1017/qua.2019.42)][[request copy](mailto:erc62@cam.ac.uk?subject=Request%20a%20Copy%20of%20%22Neolithic%20population%20crash%20in%20northwest%20Europe%20associated%20with%20agricultural%20crisis.%22)]
-
-Kandler, A., **Crema, E.R. (2019)**. Analysing Cultural Frequency Data: Neutral Theory and Beyond. In _Handbook of Evolutionary Research in Archaeology_, A. Prentiss (Eds.), Springer, pp 83-108.[[url](https://link.springer.com/chapter/10.1007/978-3-030-11117-5_5)][[preprint](https://osf.io/preprints/socarxiv/kvmzu/)][[request copy]](mailto:erc62@cam.ac.uk?subject=Request%20a%20Copy%20of%20%22Analysing%20Cultural%20Frequency%20Data%3A%20Neutral%20Theory%20and%20Beyond%22)[[code](https://github.com/ercrema/HERAChp.KandlerCrema)]
-
-Saag, L., et al. (2019). The Arrival of Siberian Ancestry Connecting the Eastern Baltic to Uralic Speakers further East. _Current Biology_ 29, 1701–1711 [[url](https://doi.org/10.1016/j.cub.2019.04.026)][[request copy](mailto:erc62@cam.ac.uk?subject=Request%20a%20Copy%20of%20%22The%20Arrival%20of%20Siberian%20Ancestry%20Connecting%20the%20Eastern%20Baltic%20to%20Uralic%20Speakers%20further%20East%22)]
-
-### 2008-2017 ###
+### 2008-2019 ###
 ---
 
 Bell, L., **Crema, E.R.** , Bunting, J., Madella, M. (2018). Simulating vegetation in ancient Japan using HuMPol: a pollen-based multi-scenario modeling approach. _PAGES Magazine_, 26, 22-23.[[url/pdf](http://pastglobalchanges.org/download/docs/magazine/2018-1/PAGESmagazine_2018%281%29_22-23.pdf)]
@@ -88,6 +81,8 @@ Biagetti, S., Alcaina-Mateos, J., **Crema, E.R.** (2016). A matter of ephemerali
 Biagetti, S., Merlo, S., Adam, E., Lobo, A., Conesa, F.C., Knight, J., Bekrani, H., **Crema, E.R.**, Alcaina-Mateos, J., Madella, M., (2017). High and Medium Resolution Satellite Imagery to Evaluate Late Holocene Human–Environment Interactions in Arid Lands: A Case Study from the Central Sahara. _Remote Sensing_ 9, 351.[[url](https://doi.org/10.3390/rs9040351)][[pdf](http://ercrema.github.io/files/Biagetti%20et%20al%202017.pdf)]
 
 Bortolini, E., Pagani, L., **Crema, E.R.**, Sarno, S., Barbieri, C., Boattini, A., Sazzini, M., Silva, S.G. da, Martini, G., Metspalu, M., Pettener, D., Luiselli, D., Tehrani, J.J., (2017). Inferring patterns of folktale diffusion using genomic data. _PNAS_ 201614395. [[url](https://doi.org/10.1073/pnas.1614395114)][[pdf](http://ercrema.github.io/files/Bortolini%20et%20al%202017.pdf)] 
+
+Colledge, S., Conolly, J. **Crema, E.R.**, Shennan, S. (2019) Neolithic population crash in northwest Europe associated with agricultural crisis. _Quaternary Research_,92(3),686-707. [[url](https://doi.org/10.1017/qua.2019.42)][[request copy](mailto:erc62@cam.ac.uk?subject=Request%20a%20Copy%20of%20%22Neolithic%20population%20crash%20in%20northwest%20Europe%20associated%20with%20agricultural%20crisis.%22)]
 
 **Crema, E.R.**, (2011). Aoristic approaches and voxel models for spatial analysis. In: Jerem, E.,Redo, F. & Szeverényi, V. (Eds.) _On the road to reconstructing the past. Computer Applications and Quantitative Methods in Archaeology_. Proceedings of the 36th International Conference, Budapest, April 2-6, 2008. Budapest: Archeolingua, pp.179-186.[[url/pdf](https://proceedings.caaconference.org/paper/cd12_crema_caa2008/)]
 
@@ -127,6 +122,8 @@ Eve, S., **Crema, E.R.** (2014). A House with a View?  Multi-model inference, vi
 
 Fort, J., **Crema, E.R.**  Madella, M. (2015) Modeling Demic and Cultural Diffusion: An Introduction, _Human Biology_, 87 (3), 141-149.[[url](https://dx.doi.org/10.13110/humanbiology.87.3.0141)]
 
+Kandler, A., **Crema, E.R. (2019)**. Analysing Cultural Frequency Data: Neutral Theory and Beyond. In _Handbook of Evolutionary Research in Archaeology_, A. Prentiss (Eds.), Springer, pp 83-108.[[url](https://link.springer.com/chapter/10.1007/978-3-030-11117-5_5)][[preprint](https://osf.io/preprints/socarxiv/kvmzu/)][[request copy]](mailto:erc62@cam.ac.uk?subject=Request%20a%20Copy%20of%20%22Analysing%20Cultural%20Frequency%20Data%3A%20Neutral%20Theory%20and%20Beyond%22)[[code](https://github.com/ercrema/HERAChp.KandlerCrema)]
+
 Lake, M. and **Crema E.R.** (2012). The cultural evolution of adaptive-trait diversity when resources are uncertain and finite, _Advances in Complex Systems_, 15, 1150013.[[url](https://doi.org/10.1142/S0219525911003323)][[request copy](mailto:erc62@cam.ac.uk?subject=Request%20a%20Copy%20of%20%22%20The%20cultural%20evolution%20of%20adaptive-trait%20diversity%20when%20resources%20are%20uncertain%20and%20finite%22)]
 
 Manning, K., College S., **Crema, E.R.**, Shennan, S., Timpson, A. (2016). The Cultural Evolution of Neolithic Europe. EUROEVOL Dataset 1: Sites, Phases and Radiocarbon Data, _Journal of Open Archaeology Data_, 5: e2. [[url](http://dx.doi.org/10.5334/joad.40)][[pdf](http://ercrema.github.io/files/Manning%20et%20al%202016.pdf)][[data](http://discovery.ucl.ac.uk/1469811/)]
@@ -142,6 +139,8 @@ Mulazzani, S., Boussoffara, R., Aouadi, N., Azzarà, V., Belhouchet, L., Boujekb
 Mulazzani, S., Boussoffara, R., Azzarà, V., Belhouchet, L., Boldrin, M. Boujekben, A., **Crema, E.R.**, Mannino, M.A., Del Grande C., Mazzanti C., Scaruffi, S. (2008). Between the Sahara and the Mediterranean: a study of the Middle Holocene communities of the Sebkhet Halk al Menzel (Tunisia). The first three Campaigns 2002-2004, In Menozzi O., Di Marzio M. L., Fossataro D. (Eds.) SOMA 2005 Proceedings of the IX Symposium on Mediterranean Archaeology, Chieti (Italy), 24- 26 February 2005. BAR International Series, n. 1793, Oxford: Archaeopress, pp 383-390.[[request copy](mailto:erc62@cam.ac.uk?subject=Request%20a%20Copy%20of%20%22etween%20the%20Sahara%20and%20the%20Mediterranean%3A%20a%20study%20of%20the%20Middle%20Holocene%20communities%20of%20the%20Sebkhet%20Halk%20al%20Menzel%20(Tunisia)%22)]
 
 Ribéreau-Gayon, A., Rando, C., Schuliar, Y., Chapenoire, S., **Crema, E.R.**, Claes, J., Seret, B., Maleret, V., Morgan, R.M., (2017). Extensive unusual lesions on a large number of immersed human victims found to be from cookiecutter sharks (Isistius spp.): an examination of the Yemenia plane crash. _International Journal of Legal Medicine_ 131, 423-432.[[url](https://doi.org/10.1007/s00414-016-1449-6)][[Request copy](mailto:erc62@cam.ac.uk?subject=Request%20a%20Copy%20of%20%22Extensive%20unusual%20lesions%20on%20a%20large%20number%20of%20immersed%20human%20victims%22)]
+
+Saag, L., et al. (2019). The Arrival of Siberian Ancestry Connecting the Eastern Baltic to Uralic Speakers further East. _Current Biology_ 29, 1701–1711 [[url](https://doi.org/10.1016/j.cub.2019.04.026)][[request copy](mailto:erc62@cam.ac.uk?subject=Request%20a%20Copy%20of%20%22The%20Arrival%20of%20Siberian%20Ancestry%20Connecting%20the%20Eastern%20Baltic%20to%20Uralic%20Speakers%20further%20East%22)]
 
 Shennan, S., **Crema, E.R.**, Kerig, T. (2015). Isolation-by-distance, homophily, and "core" vs. "package" cultural evolution models in Neolithic Europe. _Evolution and Human Behaviour_. 36 (2), 103-109.[[url/code](https://doi.org/10.1016/j.evolhumbehav.2014.09.006)][[pdf](http://ercrema.github.io/files/Shennan,Crema%20and%20Kerig%202015)]
 
