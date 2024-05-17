@@ -6,12 +6,11 @@ author_profile: true
 ---
 Years: [2024](#2024)・[2023](#2023)・[2022](#2022)・[2021](#2021)・[2020](#2020)・[2008-2019](#2008-2019)
 
-### Preprints ###
----
-**Crema, E. R.** (2023). A Bayesian alternative to Aoristic analyses in archaeology. _OSF Preprints_. [[URL](https://doi.org/10.31219/osf.io/98qkx)][[pdf](http://ercrema.github.io/files/Crema_baorista_paper.pdf)][[code](https://github.com/ercrema/beyond_aoristic)]
 
 ### 2024 ###
 ---
+**Crema, E. R.** (2024). A Bayesian alternative to Aoristic analyses in archaeology. _Archaeometry_. [[URL](https://doi.org/10.1111/arcm.12984)][[pdf](http://ercrema.github.io/files/Crema_2024.pdf)][[code](https://github.com/ercrema/beyond_aoristic)]
+
 **Crema, E. R.**, Bortolini, E., Lake,M. (2024). How Cultural Transmission Through Objects Impacts Inferences About Cultural Evolution. _Journal of Archaeological Method and Theory_, 31, 202-226. [[url](https://doi.org/10.1007/s10816-022-09599-x)][[pdf](http://ercrema.github.io/files/Crema%20et%20al%202023.pdf)][[code](https://github.com/ercrema/objectmediated_transmission)]
 
 **Crema, E.R.**, Bloxam, A., Stevens, C., Vander Linden, M. (2024). Modelling diffusion of innovation curves using radiocarbon data. _Journal of Archaeological Science_, 165, 105962. [[url](https://doi.org/10.1016/j.jas.2024.105962)][[pdf](http://ercrema.github.io/files/Crema_etal_2024a.pdf)][[code](https://github.com/ercrema/diffusionCurve)]
