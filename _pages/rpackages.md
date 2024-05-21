@@ -8,8 +8,9 @@ author_profile: true
 ---
 _baorista_ is an R package for analysing archaeological time-frequencies where each event is associated with chronological uncertainty. It is designed to be a Bayesian alternative to aoristic analysis. At its core _baorista_ provides a series of utility and wrapper functions based on [nimble](https://CRAN.R-project.org/package=nimble). 
 
+* CRAN [link](https://CRAN.R-project.org/package=baorista)
 * GitHub [link](https://github.com/ercrema/baorista)
-* Preprint paper: [Crema 2023](https://osf.io/98qkx/)
+* Associated paper: [Crema 2024](https://doi.org/10.1111/arcm.12984)
 
 ## rcarbon <img src="/files/rcarbon.png" align="right" />
 ---
