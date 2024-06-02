@@ -9,13 +9,13 @@ Years: [2024](#2024)・[2023](#2023)・[2022](#2022)・[2021](#2021)・[2020](#2
 
 ### 2024 ###
 ---
-**Crema, E. R.** (2024). A Bayesian alternative to Aoristic analyses in archaeology. _Archaeometry_. [[URL](https://doi.org/10.1111/arcm.12984)][[pdf](http://ercrema.github.io/files/Crema_2024.pdf)][[code](https://github.com/ercrema/beyond_aoristic)]
+**Crema, E. R.** (2024). A Bayesian alternative to Aoristic analyses in archaeology. _Archaeometry_. [[url](https://doi.org/10.1111/arcm.12984)][[pdf](http://ercrema.github.io/files/Crema_2024.pdf)][[code](https://github.com/ercrema/beyond_aoristic)]
 
 **Crema, E. R.**, Bortolini, E., Lake,M. (2024). How Cultural Transmission Through Objects Impacts Inferences About Cultural Evolution. _Journal of Archaeological Method and Theory_, 31, 202-226. [[url](https://doi.org/10.1007/s10816-022-09599-x)][[pdf](http://ercrema.github.io/files/Crema%20et%20al%202023.pdf)][[code](https://github.com/ercrema/objectmediated_transmission)]
 
 **Crema, E.R.**, Bloxam, A., Stevens, C., Vander Linden, M. (2024). Modelling diffusion of innovation curves using radiocarbon data. _Journal of Archaeological Science_, 165, 105962. [[url](https://doi.org/10.1016/j.jas.2024.105962)][[pdf](http://ercrema.github.io/files/Crema_etal_2024a.pdf)][[code](https://github.com/ercrema/diffusionCurve)]
 
-Riris,P., Silva F., **Crema, E.R.**, Palmisano, A., Robinson, E., et al. (2024). Frequent disturbances enhanced the resilience of past human populations. _Nature_, [[url](https://doi.org/10.1038/s41586-024-07354-8)][[pdf](http://ercrema.github.io/files/Riris_et_al_2024.pdf)][[code](https://doi.org/10.5281/zenodo.10061467)]
+Riris,P., Silva F., **Crema, E.R.**, Palmisano, A., Robinson, E., et al. (2024). Frequent disturbances enhanced the resilience of past human populations. _Nature_, 629, 837–842 (2024) [[url](https://doi.org/10.1038/s41586-024-07354-8)][[pdf](http://ercrema.github.io/files/Riris_et_al_2024.pdf)][[code](https://doi.org/10.5281/zenodo.10061467)]
 
 ### 2023 ###
 ---
@@ -96,7 +96,7 @@ Colledge, S., Conolly, J. **Crema, E.R.**, Shennan, S. (2019) Neolithic populati
 
 **Crema, E.R.** (2015). Time and probabilistic reasoning in Settlement Analysis. In Barceló, J.A., Bogdanovic, I. (Eds.) _Mathematics in Archaeology_, CRC Press, pp. 314-334.[[url](https://doi.org/10.1201/b18530)][[request copy](mailto:erc62@cam.ac.uk?subject=Request%20a%20Copy%20of%20%22Time%20and%20probabilistic%20reasoning%20in%20Settlement%20Analysis%22)]
 
-**Crema, E.R.**, Bevan, A., Shennan, S.(2017). Spatio-temporal approaches to archaeological radiocarbon dates. _Journal of Archaeological Science_ 87, 1-9. [[url](https://doi.org/j.jas.2017.09.007)][[request copy](mailto:erc62@cam.ac.uk?subject=Request%20a%20Copy%20of%20%22Spatio-temporal%20approaches%20to%20archaeological%20radiocarbon%20dates%22)][[code](https://github.com/ercrema/JAS2017_spatialSPD)]
+**Crema, E.R.**, Bevan, A., Shennan, S.(2017). Spatio-temporal approaches to archaeological radiocarbon dates. _Journal of Archaeological Science_ 87, 1-9. [[url](https://doi.org/10.1016/j.jas.2017.09.007)][[request copy](mailto:erc62@cam.ac.uk?subject=Request%20a%20Copy%20of%20%22Spatio-temporal%20approaches%20to%20archaeological%20radiocarbon%20dates%22)][[code](https://github.com/ercrema/JAS2017_spatialSPD)]
 
 **Crema, E.R.** (2018). Statistical Inference and Archaeological Simulations, _The SAA Archaeological Record_,18(2), 20-23.[[url](http://onlinedigeditions.com/article/Statistical+Inference+And+Archaeological+Simulations/3048112/486133/article.html)][[pdf](http://ercrema.github.io/files/Crema%202018.pdf)]
 
