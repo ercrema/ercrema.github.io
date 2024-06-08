@@ -15,7 +15,7 @@ Years: [2024](#2024)・[2023](#2023)・[2022](#2022)・[2021](#2021)・[2020](#2
 
 **Crema, E.R.**, Bloxam, A., Stevens, C., Vander Linden, M. (2024). Modelling diffusion of innovation curves using radiocarbon data. _Journal of Archaeological Science_, 165, 105962. [[url](https://doi.org/10.1016/j.jas.2024.105962)][[pdf](http://ercrema.github.io/files/Crema_etal_2024a.pdf)][[code](https://github.com/ercrema/diffusionCurve)]
 
-Lundy et al. (2024). Culinary continuity in central Japan across the transition to agriculture. _Anthropological and Archaeological Sciences_ [[url](https://doi.org/10.1007/s12520-024-01992-9)][[pdf](http://ercrema.github.io/files/Lundy_et_al_2024.pdf)][[code](https://doi.org/10.5281/zenodo.11164557)]
+Lundy et al. (2024). Culinary continuity in central Japan across the transition to agriculture. _Anthropological and Archaeological Sciences_,16:97. [[url](https://doi.org/10.1007/s12520-024-01992-9)][[pdf](http://ercrema.github.io/files/Lundy_et_al_2024.pdf)][[code](https://doi.org/10.5281/zenodo.11164557)]
 
 Riris,P., Silva F., **Crema, E.R.**, Palmisano, A., Robinson, E., et al. (2024). Frequent disturbances enhanced the resilience of past human populations. _Nature_, 629, 837–842 (2024) [[url](https://doi.org/10.1038/s41586-024-07354-8)][[pdf](http://ercrema.github.io/files/Riris_et_al_2024.pdf)][[code](https://doi.org/10.5281/zenodo.10061467)]
 
