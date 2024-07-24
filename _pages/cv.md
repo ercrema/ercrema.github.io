@@ -28,9 +28,13 @@ Research Projects and Collaborations
 * Current Projects
   * 2019-2024 [Demography, Cultural change, and the Diffusion of Rice and Millet during the Jomon-Yayoi transition in prehistoric Japan (ENCOUNTER) Project](https://www.encounterproject.info/), ERC Starter Grant (PI)
   * 2017-2021 [Crops, pollinators and people: the long-term dynamics of a critical symbiosis (BuckBee) Project](https://www.arch.cam.ac.uk/research/projects/current-projects/buckbee-project), Leverhulme Research Grant (Co-I, PI: Prof. Martin Jones)
-  * 2021-2023 [ArchBiMod – Agent-Based Modelling to assess the quality and bias of the archaeological record](https://www.arch.cam.ac.uk/research/projects/current-projects/archbimod-agent-based-modelling-assess-quality-and-bias), Marie Sklodowska-Curie IF (Host Supervisor; PDRA: Dr. Alfredo Cortell-Nicolau) 
+  * 2021-2023 [ArchBiMod – Agent-Based Modelling to assess the quality and bias of the archaeological record](https://www.arch.cam.ac.uk/research/projects/current-projects/archbimod-agent-based-modelling-assess-quality-and-bias), Marie Sklodowska-Curie IF (Host Supervisor; PDRA: Dr. Alfredo Cortell-Nicolau)
+  * 2023-2025 EHSCAN – Exploring Early Holocene Saharan Cultural Adaptation and Social Networks through socio-ecological Inferential Modelling, Marie Sklodowska-Curie/ UKRI IF (Host Supervisor; PDRA: Dr. Rocco Rotunno)
 * Collaborations
   * [LandCover6K](http://pastglobalchanges.org/science/wg/landcover6k/intro) (Archaeology/history-based LU, WP-LU8)
+  * 2022-2024 GINI – The Global Dynamics of Inequality Project / “The Creation and Division of Wealth and the Long-term
+Consequences of Inequality: Views from Archaeology Project. National Science Foundation (Scott
+Ortman, PI; Amy Bogaard, co-PI; Tim Kohler, co-PI)
 
 Teaching
 ======
@@ -42,25 +46,33 @@ Teaching
   * B6 Major Topics in Human Evolutionary Studies (Guest Lecturer)
   
 * Current PhD Students
-  * Rachel Blevis (main supervisor)
   * Leah Brainerd (main supervisor)
-  * Friederike Jürcke (advisor, main supervisor: Dr Cameron Petrie)
-  * Marta Krzyzanska (main supervisor)
-  * Joseph Lewis (main supervisor)
+  * Christiane-Marie Cantwell (advisor, main supervisor: Dr Alessandro Launaro)
   * Sergio Russo (advisor, main supervisor: Prof. Augusta MacMahon)
+  * Alexes Mes (main supervisor)
   * Charles Simmons (main supervisor)
-  * Benjamin J Utting (advisor, main supervisor: Dr Alaistair Key)
-  * Jasmine Vieri (advisor, main supervisor: Prof Marcos Martinon-Torres)
+  * Finn Stileman (advisor, main supervisor: Dr. Alastair Key)
   * Andriana Xenaki (advisor, main supervisor: Dr Yannis Galanakis)
   
 * Past PhD student
   * Helen Alderson (advisor,main supervisor: Dr Elizabeth DeMarrais)
+  * Rachel Blevis (main supervisor)
+  * Friederike Jürcke (advisor, main supervisor: Dr Cameron Petrie)
+  * Marta Krzyzanska (main supervisor)
+  * Joseph Lewis (main supervisor)
   * Mncedisi Siteleki (co-supervisor, main supervisor: Prof Per Ditlef Fredriksen)
+  * Jasmine Vieri (advisor, main supervisor: Prof Marcos Martinon-Torres)
+  * Benjamin J Utting (advisor, main supervisor: Dr Alaistair Key)
+
 
 
 Selected Publications
 ======
-(see [here](https://ercrema.github.io/publications/) for full list, links, and dowloads)
+(see [here](https://ercrema.github.io/publications/) for full list, links, and downloads)
+
+* Crema, E.R., Bloxam, A., Stevens, C., Vander Linden, M. (2024). Modelling diffusion of innovation curves using radiocarbon data. Journal of Archaeological Science, 165, 105962
+
+* Crema, E. R., Stevens, C. J., & Shoda, S. (2022). Bayesian analyses of direct radiocarbon dates reveal geographic variations in the rate of rice farming dispersal in prehistoric Japan. Science Advances, 8(38), eadc9171.
 
 * Crema, E.R., (2022). Statistical Inference of Prehistoric Demography from Frequency Distributions of Radiocarbon Dates: A Review and a Guide for the Perplexed. Journal of Archaeological Method and Theory. https://doi.org/10.1007/s10816-022-09559-5
 
@@ -93,10 +105,11 @@ Selected Publications
 Editorial Work
 ======
 * Associate Editor: Journal of Archaeological Science
+* Series Editor: Cambridge Manuals in Archaeology
 * Editorial Board Member:
   * Japanese Journal of Archaeology
   * Journal of Archaeological Science: Reports
   * Journal of Open Archaeology Data
-* Peer-Reviews for: American Antiquity, Antiquity; Anthropological and Archaeological Sciences; Current Anthropology;Environmental Archaeology; Frontiers in Digital Archaeology; Humanities and Social Sciences Communications; Journal of Anthropological Archaeology; Journal of Archaeological Science; Journal of Archaeological Science: Reports; Journal of Archaeological Method and Theory; Nature Communications; Nature: Scientific Reports;  Open Quaternary; Papers of the Institute of Archaeology; PLOS ONE; PLOS Computational Biology; Proceedings of the Computer Applications in Archaeology Conference; Quaternary International; Radiocarbon, Theorethical Population Biology,Trends in Ecology & Evolution; World Archaeology; the National Science Foundation, and edited volumes for Ubiquity Press and Springer.
+* Peer-Reviews for: American Antiquity, Antiquity; Anthropological and Archaeological Sciences; Current Anthropology; Environmental Archaeology; Frontiers in Digital Archaeology; Humanities and Social Sciences Communications; Journal of Anthropological Archaeology; Journal of Archaeological Science; Journal of Archaeological Science: Reports; Journal of Archaeological Method and Theory; Nature Communications; Nature: Scientific Reports;  Open Quaternary; Papers of the Institute of Archaeology; PLOS ONE; PLOS Computational Biology; Proceedings of the Computer Applications in Archaeology Conference; Quaternary International; Radiocarbon, Theorethical Population Biology; Trends in Ecology & Evolution; World Archaeology; the National Science Foundation, and edited volumes for Ubiquity Press and Springer.
 
   
