@@ -17,6 +17,8 @@ Cao, D., **Crema, E.R.**, Pomeroy, E. (2024). Estimating intralimb proportions f
 
 **Crema, E.R.**, Bloxam, A., Stevens, C., Vander Linden, M. (2024). Modelling diffusion of innovation curves using radiocarbon data. _Journal of Archaeological Science_, 165, 105962. [[url](https://doi.org/10.1016/j.jas.2024.105962)][[pdf](http://ercrema.github.io/files/Crema_etal_2024a.pdf)][[code](https://github.com/ercrema/diffusionCurve)]
 
+**Crema, E.R.**, Carrignon, S., Shoda, S., Stevens, C. (2004). Regional variations in the demographic response to the arrival of rice farming in prehistoric Japan. _Antiquity_. [[url](https://doi.org/10.15184/aqy.2024.146)][[pdf](http://ercrema.github.io/files/Crema_etal_2024c.pdf)][[code](https://github.com/ercrema/yayoi_demo)]
+
 Lundy et al. (2024). Culinary continuity in central Japan across the transition to agriculture. _Anthropological and Archaeological Sciences_,16:97. [[url](https://doi.org/10.1007/s12520-024-01992-9)][[pdf](http://ercrema.github.io/files/Lundy_et_al_2024.pdf)][[code](https://doi.org/10.5281/zenodo.11164557)]
 
 Riris,P., Silva F., **Crema, E.R.**, Palmisano, A., Robinson, E., et al. (2024). Frequent disturbances enhanced the resilience of past human populations. _Nature_, 629, 837–842 (2024) [[url](https://doi.org/10.1038/s41586-024-07354-8)][[pdf](http://ercrema.github.io/files/Riris_et_al_2024.pdf)][[code](https://doi.org/10.5281/zenodo.10061467)]
