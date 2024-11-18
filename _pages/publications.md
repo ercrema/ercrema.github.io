@@ -9,6 +9,8 @@ Years: [2024](#2024)・[2023](#2023)・[2022](#2022)・[2021](#2021)・[2020](#2
 
 ### 2024 ###
 ---
+Bogaard, A., Ortman, S., Birch, J., Quequezana, G. C., Chirikure, S., **Crema, E. R.**, et al. (2024). The Global Dynamics of Inequality (GINI) project: analysing archaeological housing data. _Antiquity_, 98(397) e6. [[url](https://doi.org/10.15184/aqy.2023.188)][[pdf](http://ercrema.github.io/files/Bogaard_et_al_2023.pdf)]
+
 Cao, D., **Crema, E.R.**, Pomeroy, E. (2024). Estimating intralimb proportions for commingled remains. _International Journal of Osteoarchaeology_. [[url](https://doi.org/10.1002/oa.3326)][[pdf](http://ercrema.github.io/files/Cao_etal_2024.pdf)][[code](https://github.com/CarolDoudouCao/Aggregate_IntraLimb_Proportions_for_Commingled_Remains)]
 
 Carrignon, S., **Crema, E. R.**, Kandler, A., & Shennan, S. (2024). Postmarital residence rules and transmission pathways in cultural hitchhiking. Proceedings of the National Academy of Sciences, 121(48), e2322888121.[[URL](https://doi.org/10.1073/pnas.2322888121)][[pdf](http://ercrema.github.io/files/Carrignon_etal_2024.pdf)][[code](https://zenodo.org/doi/10.5281/zenodo.12579203)]
@@ -19,7 +21,7 @@ Carrignon, S., **Crema, E. R.**, Kandler, A., & Shennan, S. (2024). Postmarital 
 
 **Crema, E.R.**, Bloxam, A., Stevens, C., Vander Linden, M. (2024). Modelling diffusion of innovation curves using radiocarbon data. _Journal of Archaeological Science_, 165, 105962. [[url](https://doi.org/10.1016/j.jas.2024.105962)][[pdf](http://ercrema.github.io/files/Crema_etal_2024a.pdf)][[code](https://github.com/ercrema/diffusionCurve)]
 
-**Crema, E.R.**, Carrignon, S., Shoda, S., Stevens, C. (2024). Regional variations in the demographic response to the arrival of rice farming in prehistoric Japan. _Antiquity_. [[url](https://doi.org/10.15184/aqy.2024.146)][[pdf](http://ercrema.github.io/files/Crema_etal_2024c.pdf)][[code](https://github.com/ercrema/yayoi_demo)]
+**Crema, E.R.**, Carrignon, S., Shoda, S., Stevens, C. (2024). Regional variations in the demographic response to the arrival of rice farming in prehistoric Japan. _Antiquity_98(401),1290-1305.[[url](https://doi.org/10.15184/aqy.2024.146)][[pdf](http://ercrema.github.io/files/Crema_etal_2024c.pdf)][[code](https://github.com/ercrema/yayoi_demo)]
 
 Lundy et al. (2024). Culinary continuity in central Japan across the transition to agriculture. _Anthropological and Archaeological Sciences_,16:97. [[url](https://doi.org/10.1007/s12520-024-01992-9)][[pdf](http://ercrema.github.io/files/Lundy_et_al_2024.pdf)][[code](https://doi.org/10.5281/zenodo.11164557)]
 
@@ -27,8 +29,6 @@ Riris,P., Silva F., **Crema, E.R.**, Palmisano, A., Robinson, E., et al. (2024).
 
 ### 2023 ###
 ---
-Bogaard, A., Ortman, S., Birch, J., Quequezana, G. C., Chirikure, S., **Crema, E. R.**, et al. (2023). The Global Dynamics of Inequality (GINI) project: analysing archaeological housing data. _Antiquity_, 1–7. [[url](https://doi.org/10.15184/aqy.2023.188)][[pdf](http://ercrema.github.io/files/Bogaard_et_al_2023.pdf)]
-
 Kudo, Y., Sakamoto, M. Hakozaki, M., Stevens, C, **Crema, E.R.** (2023). An archaeological radiocarbon database of Japan. _Journal of Open Archaeology Data_ 11:11, pp 1-9, [[url](https://doi.org/10.5334/joad.115)][[pdf](http://ercrema.github.io/files/Kudo_et_al_2023.pdf)][[code](https://github.com/ercrema/japan_c14db)]
 
 ### 2022 ###
