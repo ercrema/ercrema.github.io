@@ -11,7 +11,7 @@ Years: [2024](#2024)・[2023](#2023)・[2022](#2022)・[2021](#2021)・[2020](#2
 ---
 Cao, D., **Crema, E.R.**, Pomeroy, E. (2024). Estimating intralimb proportions for commingled remains. _International Journal of Osteoarchaeology_. [[url](https://doi.org/10.1002/oa.3326)][[pdf](http://ercrema.github.io/files/Cao_etal_2024.pdf)][[code](https://github.com/CarolDoudouCao/Aggregate_IntraLimb_Proportions_for_Commingled_Remains)]
 
-Carrignon, S., **Crema, E. R.**, Kandler, A., & Shennan, S. (2024). Postmarital residence rules and transmission pathways in cultural hitchhiking. Proceedings of the National Academy of Sciences, 121(48), e2322888121.[[URL](https://doi.org/10.1073/pnas.2322888121)][[pdf]((http://ercrema.github.io/files/Carrignon_etal_2024.pdf)][[code](https://zenodo.org/doi/10.5281/zenodo.12579203)]
+Carrignon, S., **Crema, E. R.**, Kandler, A., & Shennan, S. (2024). Postmarital residence rules and transmission pathways in cultural hitchhiking. Proceedings of the National Academy of Sciences, 121(48), e2322888121.[[URL](https://doi.org/10.1073/pnas.2322888121)][[pdf](http://ercrema.github.io/files/Carrignon_etal_2024.pdf)][[code](https://zenodo.org/doi/10.5281/zenodo.12579203)]
 
 **Crema, E. R.** (2024). A Bayesian alternative to Aoristic analyses in archaeology. _Archaeometry_. [[url](https://doi.org/10.1111/arcm.12984)][[pdf](http://ercrema.github.io/files/Crema_2024.pdf)][[code](https://github.com/ercrema/beyond_aoristic)]
 
