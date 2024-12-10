@@ -4,9 +4,12 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-Years: [2024](#2024)・[2023](#2023)・[2022](#2022)・[2021](#2021)・[2020](#2020)・[2008-2019](#2008-2019)
+Years: [2025](#2025)・[2024](#2024)・[2023](#2023)・[2022](#2022)・[2021](#2021)・[2008-2020](#2008-2020)
 
-
+### 2025 ###
+---
+Vieri, J., **Crema, E. R.**, Uribe Villegas, M. A., Sáenz Samper, J., & Martinón-Torres, M. (2025). Beyond baselines of performance: Beta regression models of compositional variability in craft production studies. _Journal of Archaeological Science_, 173, 106106.[[url](https://doi.org/10.1016/j.jas.2024.106106)][[pdf](http://ercrema.github.io/files/Vieri_etal_2025.pdf))] [[code](https://github.com/jmkvieri/BBLoP)]
+ 
 ### 2024 ###
 ---
 Bogaard, A., Ortman, S., Birch, J., Quequezana, G. C., Chirikure, S., **Crema, E. R.**, et al. (2024). The Global Dynamics of Inequality (GINI) project: analysing archaeological housing data. _Antiquity_, 98(397) e6. [[url](https://doi.org/10.15184/aqy.2023.188)][[pdf](http://ercrema.github.io/files/Bogaard_et_al_2023.pdf)]
@@ -21,7 +24,7 @@ Carrignon, S., **Crema, E. R.**, Kandler, A., & Shennan, S. (2024). Postmarital 
 
 **Crema, E.R.**, Bloxam, A., Stevens, C., Vander Linden, M. (2024). Modelling diffusion of innovation curves using radiocarbon data. _Journal of Archaeological Science_, 165, 105962. [[url](https://doi.org/10.1016/j.jas.2024.105962)][[pdf](http://ercrema.github.io/files/Crema_etal_2024a.pdf)][[code](https://github.com/ercrema/diffusionCurve)]
 
-**Crema, E.R.**, Carrignon, S., Shoda, S., Stevens, C. (2024). Regional variations in the demographic response to the arrival of rice farming in prehistoric Japan. _Antiquity_98(401),1290-1305.[[url](https://doi.org/10.15184/aqy.2024.146)][[pdf](http://ercrema.github.io/files/Crema_etal_2024c.pdf)][[code](https://github.com/ercrema/yayoi_demo)]
+**Crema, E.R.**, Carrignon, S., Shoda, S., Stevens, C. (2024). Regional variations in the demographic response to the arrival of rice farming in prehistoric Japan. _Antiquity_ 98(401),1290-1305.[[url](https://doi.org/10.15184/aqy.2024.146)][[pdf](http://ercrema.github.io/files/Crema_etal_2024c.pdf)][[code](https://github.com/ercrema/yayoi_demo)]
 
 Goodman, J. R., **Crema, E.R**, Nolan, F., Cohen, E., & Foley, R. A. (2024). Evidence that cultural groups differ in their abilities to detect fake accents. _Evolutionary Human Sciences_, 6, e46. [[urk](https://doi.org/10.1017/ehs.2024.36)][[pdf](http://ercrema.github.io/files/Goodman_etal_2024.pdf)][[code](https://github.com/jonathanrgoodman/accents-2)]
 
@@ -67,16 +70,6 @@ Di Napoli, R.J., **Crema, E.R.**, Lipo, C.P., Rieth, T.M., Hunt, T.L. (2021).App
 
 Kim, H., Lee, G.A., **Crema, E.R.**. (2021). Bayesian analyses question the role of climate in Chulmun demography. _Scientific Reports_,11, Article number: 23797. [[url](https://doi.org/10.1038/s41598-021-03180-4)][[pdf](http://ercrema.github.io/files/Kim%20et%20al%202021.pdf)][[code](https://github.com/ercrema/NeolithicKoreaDemography)]
 
-
-### 2020 ###
----
-
-**Crema, E.R.** (2020). Non-Stationarity and Local Spatial Analysis. In _Archaeological Spatial Analysis: A Methodological Guide_, M. Gillings, P. Hacıgüzeller and G. Lock (Eds.), Springer, pp 155-168.[[url]](https://www.routledge.com/Archaeological-Spatial-Analysis-A-Methodological-Guide/Gillings-Haciguzeller-Lock/p/book/9780815373230)[[request copy](mailto:erc62@cam.ac.uk?subject=Request%20a%20Copy%20of%20%22Non-Stationarity%20and%20Local%20Spatial%20Analysis%22)]
-
-**Crema, E.R.**, Kobayashi, K., (2020). A multi-proxy inference of Jōmon population dynamics using bayesian phase models, residential data, and summed probability distribution of 14C dates. _Journal of Archaeological Science_, 117, 105136. [[url](https://doi.org/10.1016/j.jas.2020.105136)][[request copy](mailto:erc62@cam.ac.uk?subject=Request%20Copy%20of%20%22A%20multi-proxy%20inference%20of%20J%C5%8Dmon%20population%20dynamics%20...%22)][[code](https://github.com/ercrema/jomonPhasesAndPopulation)]
-
-Lucarini, G., Wilkinson, T., **Crema, E.R.**, Palombini, A., Bevan, A., Broodbank, C., (2020). The MedAfriCarbon Radiocarbon Database and Web Application. Archaeological Dynamics in Mediterranean Africa, ca. 9600–700 BC. _Journal of Open Archaeology Data_ 8, 1. [[url](https://doi.org/10.5334/joad.60)][[pdf](http://ercrema.github.io/files/60-452-1-PB.pdf)]
-
 ### 2008-2019 ###
 ---
 
@@ -110,6 +103,8 @@ Colledge, S., Conolly, J. **Crema, E.R.**, Shennan, S. (2019) Neolithic populati
 
 **Crema, E.R.** (2018). Statistical Inference and Archaeological Simulations, _The SAA Archaeological Record_,18(2), 20-23.[[url](http://onlinedigeditions.com/article/Statistical+Inference+And+Archaeological+Simulations/3048112/486133/article.html)][[pdf](http://ercrema.github.io/files/Crema%202018.pdf)]
 
+**Crema, E.R.** (2020). Non-Stationarity and Local Spatial Analysis. In _Archaeological Spatial Analysis: A Methodological Guide_, M. Gillings, P. Hacıgüzeller and G. Lock (Eds.), Springer, pp 155-168.[[url]](https://www.routledge.com/Archaeological-Spatial-Analysis-A-Methodological-Guide/Gillings-Haciguzeller-Lock/p/book/9780815373230)[[request copy](mailto:erc62@cam.ac.uk?subject=Request%20a%20Copy%20of%20%22Non-Stationarity%20and%20Local%20Spatial%20Analysis%22)]
+
 **Crema, E.R.**, Bevan, A. and Lake, M. (2010). A probabilistic framework for assessing spatiotemporal point patterns in the archaeological record. _Journal of Archaeological Science_, 37, 1118-1130.[[url](https://doi.org/10.1016/j.jas.2009.12.012)][[request copy](mailto:erc62@cam.ac.uk?subject=Request%20a%20Copy%20of%20%22%20A%20probabilistic%20framework%20for%20assessing%20spatiotemporal%20point%20patterns%20in%20the%20archaeological%20record%22)]
 
 **Crema, E.R.**, Bianchi, E. (2013). Looking for patterns in the noise: non-site spatial analysis at Sebkha Kalbia (Tunisia). In Mulazzani, S. (Ed.) Le Capsien de hergla (Tunisie). Culture, environnement et économie. Frankfurt: Africa Magna Verlag, pp. 385-395.[[url](http://www.mae.parisnanterre.fr/le-capsien-de-hergla-tunisie/)][[request copy](mailto:erc62@cam.ac.uk?subject=Request%20a%20Copy%20of%20%22Looking%20for%20patterns%20in%20the%20noise%22)]
@@ -121,6 +116,8 @@ Colledge, S., Conolly, J. **Crema, E.R.**, Shennan, S. (2019) Neolithic populati
 **Crema, E.R.**, Kandler, A., Shennan, S., (2016) Revealing patterns of cultural transmission from frequency data: equilibrium and non-equilibrium assumptions. _Scientific Reports_ 6, 39122. [[url](https://doi.org/10.1038/srep39122)][[pdf](http://ercrema.github.io/files/Crema%20et%20al%202016b.pdf)][[code](https://github.com/ercrema/culturaltransmissionmodel)]
 
 **Crema, E.R.**, Kerig, T., Shennan, S. (2014). Culture, Space, and Metapopulation: a simulation-based study for evaluating signals of blending and branching in archaeology. _Journal of Archaeological Science_, 43, 289-298.[[url](https://doi.org/10.1016/j.jas.2014.01.002)][[pdf](http://ercrema.github.io/files/Crema,%20Kerig%20and%20Shennan%202014a.pdf)]
+
+**Crema, E.R.**, Kobayashi, K., (2020). A multi-proxy inference of Jōmon population dynamics using bayesian phase models, residential data, and summed probability distribution of 14C dates. _Journal of Archaeological Science_, 117, 105136. [[url](https://doi.org/10.1016/j.jas.2020.105136)][[request copy](mailto:erc62@cam.ac.uk?subject=Request%20Copy%20of%20%22A%20multi-proxy%20inference%20of%20J%C5%8Dmon%20population%20dynamics%20...%22)][[code](https://github.com/ercrema/jomonPhasesAndPopulation)]
 
 **Crema, E.R.**, Lake, M. (2015) Cultural Incubators and Spread of Innovation (2015), _Human Biology_, 87 (3), 151-168. [[url](https://dx.doi.org/10.13110/humanbiology.87.3.0151)][[code](http://dx.doi.org/10.5281/zenodo.17243)]
 
@@ -135,6 +132,8 @@ Fort, J., **Crema, E.R.**  Madella, M. (2015) Modeling Demic and Cultural Diffus
 Kandler, A., **Crema, E.R. (2019)**. Analysing Cultural Frequency Data: Neutral Theory and Beyond. In _Handbook of Evolutionary Research in Archaeology_, A. Prentiss (Eds.), Springer, pp 83-108.[[url](https://link.springer.com/chapter/10.1007/978-3-030-11117-5_5)][[preprint](https://osf.io/preprints/socarxiv/kvmzu/)][[request copy]](mailto:erc62@cam.ac.uk?subject=Request%20a%20Copy%20of%20%22Analysing%20Cultural%20Frequency%20Data%3A%20Neutral%20Theory%20and%20Beyond%22)[[code](https://github.com/ercrema/HERAChp.KandlerCrema)]
 
 Lake, M. and **Crema E.R.** (2012). The cultural evolution of adaptive-trait diversity when resources are uncertain and finite, _Advances in Complex Systems_, 15, 1150013.[[url](https://doi.org/10.1142/S0219525911003323)][[request copy](mailto:erc62@cam.ac.uk?subject=Request%20a%20Copy%20of%20%22%20The%20cultural%20evolution%20of%20adaptive-trait%20diversity%20when%20resources%20are%20uncertain%20and%20finite%22)]
+
+Lucarini, G., Wilkinson, T., **Crema, E.R.**, Palombini, A., Bevan, A., Broodbank, C., (2020). The MedAfriCarbon Radiocarbon Database and Web Application. Archaeological Dynamics in Mediterranean Africa, ca. 9600–700 BC. _Journal of Open Archaeology Data_ 8, 1. [[url](https://doi.org/10.5334/joad.60)][[pdf](http://ercrema.github.io/files/60-452-1-PB.pdf)]
 
 Manning, K., College S., **Crema, E.R.**, Shennan, S., Timpson, A. (2016). The Cultural Evolution of Neolithic Europe. EUROEVOL Dataset 1: Sites, Phases and Radiocarbon Data, _Journal of Open Archaeology Data_, 5: e2. [[url](http://dx.doi.org/10.5334/joad.40)][[pdf](http://ercrema.github.io/files/Manning%20et%20al%202016.pdf)][[data](http://discovery.ucl.ac.uk/1469811/)]
 
