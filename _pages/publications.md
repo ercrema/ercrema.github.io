@@ -10,7 +10,7 @@ Years: [2025](#2025)・[2024](#2024)・[2023](#2023)・[2022](#2022)・[2021](#2
 ---
 Vieri, J., **Crema, E. R.**, Uribe Villegas, M. A., Sáenz Samper, J., & Martinón-Torres, M. (2025). Beyond baselines of performance: Beta regression models of compositional variability in craft production studies. _Journal of Archaeological Science_, 173, 106106.[[url](https://doi.org/10.1016/j.jas.2024.106106)][[pdf](http://ercrema.github.io/files/Vieri_etal_2025.pdf))] [[code](https://github.com/jmkvieri/BBLoP)]
 
-Zhang, X., Zhang, Y., Tan, L., **Crema, E. R.**, Tian, Y., & Wang, Z. (2025). A comparative analysis of stone- and earth-wall settlement locations of the Lower Xiajiadian Culture in Aohan Banner, China. _Archaeological and Anthropological Sciences_, 17(1), 18. [[URL](https://doi.org/10.1007/s12520-024-02125-y)][[Request a copy](mailto:erc62@cam.ac.uk?subject=Request%20a%20Copy%20of%20%22Zhang%20et%20al%202025%%22))][[code](https://zenodo.org/records/14275677)]
+Zhang, X., Zhang, Y., Tan, L., **Crema, E. R.**, Tian, Y., & Wang, Z. (2025). A comparative analysis of stone- and earth-wall settlement locations of the Lower Xiajiadian Culture in Aohan Banner, China. _Archaeological and Anthropological Sciences_, 17(1), 18. [[URL](https://doi.org/10.1007/s12520-024-02125-y)][[Request a copy](mailto:erc62@cam.ac.uk?subject=Request%20a%20Copy%20of%20%22Zhang%20et%20al%202025%22))][[code](https://zenodo.org/records/14275677)]
 
  
 ### 2024 ###
