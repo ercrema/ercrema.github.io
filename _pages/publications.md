@@ -8,7 +8,9 @@ Years: [2025](#2025)・[2024](#2024)・[2023](#2023)・[2022](#2022)・[2021](#2
 
 ### 2025 ###
 ---
-Cortell-Nicolau, A., Carrignon, S., Rodíguez-Palomo, I., Hromada, D., Kahlenberg, R., Mes, A., et al. (2025). Assessing quantitative methods in archaeology via simulated datasets: The Archaeoriddle challenge. Concept, project and motivations. Journal of Archaeological Science, 177, 106179. [[url](https://doi.org/10.1016/j.jas.2025.106179)][[pdf](http://ercrema.github.io/files/Cortell-Nicolau_etal_2025.pdf)][[code](https://doi.org/10.5281/zenodo.14024547)]
+Cortell-Nicolau, A., Rivas, J., **Crema, E. R.**, Shennan, S., García-Puchol, O., Kolář, J., et al. (2025). Demographic interactions between the last hunter-gatherers and the first farmers. _Proceedings of the National Academy of Sciences_, 122(14), e2416221122. [[URL](https://doi.org/10.1073/pnas.2416221122)][[pdf](http://ercrema.github.io/files/Cortell-Nicolau_etal_2025b.pdf)][[code](https://doi.org/10.5281/zenodo.14992923)]
+
+Cortell-Nicolau, A., Carrignon, S., Rodíguez-Palomo, I., Hromada, D., Kahlenberg, R., Mes, A., et al. (2025). Assessing quantitative methods in archaeology via simulated datasets: The Archaeoriddle challenge. Concept, project and motivations. _Journal of Archaeological Science_, 177, 106179. [[url](https://doi.org/10.1016/j.jas.2025.106179)][[pdf](http://ercrema.github.io/files/Cortell-Nicolau_etal_2025.pdf)][[code](https://doi.org/10.5281/zenodo.14024547)]
 
 Vieri, J., **Crema, E. R.**, Uribe Villegas, M. A., Sáenz Samper, J., & Martinón-Torres, M. (2025). Beyond baselines of performance: Beta regression models of compositional variability in craft production studies. _Journal of Archaeological Science_, 173, 106106.[[url](https://doi.org/10.1016/j.jas.2024.106106)][[pdf](http://ercrema.github.io/files/Vieri_etal_2025.pdf)] [[code](https://github.com/jmkvieri/BBLoP)]
 
