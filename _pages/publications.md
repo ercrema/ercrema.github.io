@@ -8,9 +8,17 @@ Years: [2025](#2025)・[2024](#2024)・[2023](#2023)・[2022](#2022)・[2021](#2
 
 ### 2025 ###
 ---
+Bogaard, A., Cruz, P., Fochesato, M., Birch, J., Cervantes Quequezana, G., Chirikure, S., et al. (2025). Labor, land, and the global dynamics of economic inequality. _Proceedings of the National Academy of Sciences_, 122(16), e2400694122. [[URL](https://doi.org/10.1073/pnas.2400694122)][[pdf](http://ercrema.github.io/files/Bogaard_etal_2025.pdf)][[code](https://core.tdar.org/project/496853/the-global-dynamics-of-inequality-gini-project)]
+
 Cortell-Nicolau, A., Rivas, J., **Crema, E. R.**, Shennan, S., García-Puchol, O., Kolář, J., et al. (2025). Demographic interactions between the last hunter-gatherers and the first farmers. _Proceedings of the National Academy of Sciences_, 122(14), e2416221122. [[URL](https://doi.org/10.1073/pnas.2416221122)][[pdf](http://ercrema.github.io/files/Cortell-Nicolau_etal_2025b.pdf)][[code](https://doi.org/10.5281/zenodo.14992923)]
 
 Cortell-Nicolau, A., Carrignon, S., Rodíguez-Palomo, I., Hromada, D., Kahlenberg, R., Mes, A., et al. (2025). Assessing quantitative methods in archaeology via simulated datasets: The Archaeoriddle challenge. Concept, project and motivations. _Journal of Archaeological Science_, 177, 106179. [[url](https://doi.org/10.1016/j.jas.2025.106179)][[pdf](http://ercrema.github.io/files/Cortell-Nicolau_etal_2025.pdf)][[code](https://doi.org/10.5281/zenodo.14024547)]
+
+**Crema, E. R.**, Fochesato, M., Mejía Ramón, A. G., Munson, J., & Ortman, S. G. (2025). Toward multiscalar measures of inequality in archaeology. _Proceedings of the National Academy of Sciences_, 122(16), e2400700121. [[url](https://doi.org/10.1073/pnas.2400700121)][[pdf](http://ercrema.github.io/files/Crema_etal_2025.pdf)][[code](https://core.tdar.org/project/496853/the-global-dynamics-of-inequality-gini-project)]
+
+Kerig, T., **Crema, E. R.**, Birch, J., Feinman, G. M., Green, A. S., Gronenborn, D., et al. (2025). 100 generations of wealth equality after the Neolithic transitions. _Proceedings of the National Academy of Sciences_, 122(16), e2400697122. [[url](https://doi.org/10.1073/pnas.2400697122)][[pdf](http://ercrema.github.io/files/Kerig_etal_2025.pdf)]
+
+Kohler, T. A., Bogaard, A., Ortman, S. G., **Crema, E. R.**, Chirikure, S., Cruz, P., et al. (2025). Economic inequality is fueled by population scale, land-limited production, and settlement hierarchies across the archaeological record. _Proceedings of the National Academy of Sciences_, 122(16), e2400691122. [[url](https://doi.org/10.1073/pnas.2400691122)][[pdf](http://ercrema.github.io/files/Kohler_etal_2025.pdf)][[code](https://core.tdar.org/project/496853/the-global-dynamics-of-inequality-gini-project)]
 
 Vieri, J., **Crema, E. R.**, Uribe Villegas, M. A., Sáenz Samper, J., & Martinón-Torres, M. (2025). Beyond baselines of performance: Beta regression models of compositional variability in craft production studies. _Journal of Archaeological Science_, 173, 106106.[[url](https://doi.org/10.1016/j.jas.2024.106106)][[pdf](http://ercrema.github.io/files/Vieri_etal_2025.pdf)] [[code](https://github.com/jmkvieri/BBLoP)]
 
